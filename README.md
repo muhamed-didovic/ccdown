@@ -3,18 +3,18 @@
 
 ## Install
 ```sh
-npm i -g cc
+npm i -g ccdown
 ```
 
 #### without Install
 ```sh
-npx cc
+npx ccdown
 ```
 
 ## CLI
 ```sh
 Usage
-    $ cc [CourseUrl]
+    $ ccdown [CourseUrl]
 
 Options
     --all, -a           Get all courses.
@@ -24,9 +24,9 @@ Options
     --concurrency, -c
 
 Examples
-    $ cc
-    $ cc -a
-    $ cc [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number]
+    $ ccdown
+    $ ccdown -a
+    $ ccdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number]
 ```
 
 ## License
