@@ -1,4 +1,5 @@
-# codecourse.com for pro members
+# Get codecourse.com videos for pro members
+
 [![npm](https://badgen.net/npm/v/ccdown)](https://www.npmjs.com/package/ccdown)
 
 ## Install
