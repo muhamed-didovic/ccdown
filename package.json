@@ -1,0 +1,58 @@
+{
+  "name": "ccdown",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "bin": {
+    "cc": "lib/cli.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "downloader",
+    "scraper",
+    "codecourse"
+  ],
+  "author": "Muhamed Didovic (github.com/muhamed-didovic)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/muhamed-didovic/ccdown.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bluebird": "^3.7.2",
+    "chalk": "^5.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "fs-extra": "^10.0.0",
+    "is-valid-path": "^0.1.1",
+    "jar-got": "^0.1.0",
+    "lodash": "^4.17.21",
+    "meow": "^9.0.0",
+    "ora": "^5.4.1",
+    "p-limit": "^3.1.0",
+    "prompts": "^2.4.2",
+    "remote-file-size": "^3.0.5",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0",
+    "sanitize-filename": "^1.6.3",
+    "spinnies": "^0.5.1",
+    "tough-cookie": "^4.0.0",
+    "url-regex-safe": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-byungi": "^0.14.3",
+    "jest": "^27.4.5"
+  },
+  "eslintConfig": {
+    "extends": "byungi"
+  }
+}
