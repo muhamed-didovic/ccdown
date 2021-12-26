@@ -1,0 +1,128 @@
+[
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/640753420?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "00-introduction-nuxt-3.mp4",
+        "position": 1,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/640753422?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "01-installing-nuxt-3.mp4",
+        "position": 2,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/640753427?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "02-creating-pages-in-nuxt-3.mp4",
+        "position": 3,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/640960453?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "03-linking-to-pages-nuxt.mp4",
+        "position": 4,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/641110279?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "04-pages-with-params-nuxt-3.mp4",
+        "position": 5,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/641110305?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "05-using-layouts-nuxt-3.mp4",
+        "position": 6,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/641473269?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "06-components-nuxt-3.mp4",
+        "position": 7,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/641473377?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "07-simple-css-and-sass-nuxt-3.mp4",
+        "position": 8,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642282931?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "08-fetching-data-nuxt-3.mp4",
+        "position": 9,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642282974?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "09-deferred-fetching-nuxt-3.mp4",
+        "position": 10,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642283027?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "10-picking-data-nuxt-3.mp4",
+        "position": 11,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642283081?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "11-fetching-within-components.mp4",
+        "position": 12,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642283110?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "12-client-side-fetching-nuxt-3.mp4",
+        "position": 13,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642283166?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "13-managing-head-data-nuxt-3.mp4",
+        "position": 14,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642283233?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "14-dynamic-head-data-nuxt-3.mp4",
+        "position": 15,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/642283280?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "15-composables-nuxt-3.mp4",
+        "position": 16,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/648237768?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "16-public-files-nuxt-3.mp4",
+        "position": 17,
+        "downPath": "479-Getting Started with Nuxt 3"
+    },
+    {
+        "series": "Getting Started with Nuxt 3",
+        "url": "https://player.vimeo.com/video/648552274?h=93dc93917d&title=0&byline=0&app_id=122963",
+        "title": "17-server-api-nuxt-3.mp4",
+        "position": 18,
+        "downPath": "479-Getting Started with Nuxt 3"
+    }
+]
