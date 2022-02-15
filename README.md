@@ -22,12 +22,13 @@ Options
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
+    --file, -f          Location of the file where are the courses
     --concurrency, -c
 
 Examples
     $ ccdown
     $ ccdown -a
-    $ ccdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number]
+    $ ccdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
 ```
 
 ## License
