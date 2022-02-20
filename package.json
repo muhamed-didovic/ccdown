@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -33,6 +33,7 @@
     "cheerio": "^1.0.0-rc.10",
     "dreidels": "^0.5.2",
     "fs-extra": "^10.0.0",
+    "fuse.js": "^6.5.3",
     "is-valid-path": "^0.1.1",
     "jar-got": "^0.1.0",
     "lodash": "^4.17.21",
