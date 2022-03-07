@@ -29,6 +29,7 @@
   "dependencies": {
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
+    "@supercharge/promise-pool": "^2.1.0",
     "axios": "^0.25.0",
     "bluebird": "^3.7.2",
     "chalk": "^5.0.0",
