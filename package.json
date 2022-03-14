@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -17,6 +17,7 @@
   },
   "keywords": [
     "downloader",
+    "codecourse-downloader",
     "scraper",
     "codecourse"
   ],
@@ -30,13 +31,13 @@
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
     "@supercharge/promise-pool": "^2.1.0",
-    "axios": "^0.25.0",
+    "axios": "^0.26.1",
     "bluebird": "^3.7.2",
-    "chalk": "^5.0.0",
+    "chalk": "^5.0.1",
     "cheerio": "^1.0.0-rc.10",
     "colors": "^1.4.0",
     "dreidels": "^0.5.2",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^10.0.1",
     "fuse.js": "^6.5.3",
     "is-valid-path": "^0.1.1",
     "jar-got": "^0.1.0",
