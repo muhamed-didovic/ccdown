@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "main": "index.js",
   "directories": {
@@ -42,6 +42,7 @@
     "fuse.js": "^6.5.3",
     "is-valid-path": "^0.1.1",
     "jar-got": "^0.1.0",
+    "json2md": "^1.12.0",
     "lodash": "^4.17.21",
     "meow": "^9.0.0",
     "ora": "^5.4.1",
