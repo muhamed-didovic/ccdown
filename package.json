@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "main": "index.js",
   "directories": {
