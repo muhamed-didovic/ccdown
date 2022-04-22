@@ -1,5 +1,9 @@
 [
   {
+    "title": "487 The Eloquent Query Method",
+    "value": "https://codecourse.com/courses/the-eloquent-query-method"
+  },
+  {
     "title": "486 Build a Friend System in Laravel",
     "value": "https://codecourse.com/courses/build-a-friend-system-in-laravel"
   },
@@ -337,7 +341,7 @@
   },
   {
     "title": "401 API Token Authentication with Laravel Sanctum (Airlock)",
-    "value": "https://codecourse.com/courses/api-token-authentication-with-laravel-sanctum-(airlock)"
+    "value": "https://codecourse.com/courses/api-token-authentication-with-laravel-sanctum-airlock"
   },
   {
     "title": "400 Laravel Sanctum (Airlock) with Vue",
