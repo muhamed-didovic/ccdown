@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "main": "index.js",
   "directories": {
@@ -31,7 +31,7 @@
   "dependencies": {
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
-    "@supercharge/promise-pool": "^2.2.0",
+    "@supercharge/promise-pool": "^2.3.0",
     "axios": "^0.27.2",
     "bluebird": "^3.7.2",
     "chalk": "^5.0.1",
@@ -60,7 +60,7 @@
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-byungi": "^0.14.3",
-    "jest": "^28.1.0"
+    "jest": "^28.1.1"
   },
   "eslintConfig": {
     "extends": "byungi"
