@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.13.2",
+  "version": "0.13.3",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "main": "index.js",
   "directories": {
@@ -58,8 +58,7 @@
     "ytdl-run": "^0.2.1"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-byungi": "^0.14.3",
+    "eslint": "^8.18.0",
     "jest": "^28.1.1"
   },
   "eslintConfig": {
