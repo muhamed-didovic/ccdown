@@ -1,1522 +1,1546 @@
 [
   {
-    "title": "6 HTML5 Input Types",
-    "value": "https://codecourse.com/courses/html5-input-types"
+    "title": "492 Laravel Actions",
+    "value": "https://codecourse.com/courses/laravel-actions"
   },
   {
-    "title": "9 Git & GitHub",
-    "value": "https://codecourse.com/courses/git-and-github"
+    "title": "491 Easy Query Filters with Laravel Pipelines",
+    "value": "https://codecourse.com/courses/easy-query-filters-with-laravel-pipelines"
   },
   {
-    "title": "10 Regular Expressions",
-    "value": "https://codecourse.com/courses/regular-expressions-basics"
+    "title": "490 Build a Pay Once For Access App",
+    "value": "https://codecourse.com/courses/build-a-pay-once-for-access-app"
   },
   {
-    "title": "13 Responsive CSS Sticky Footer",
-    "value": "https://codecourse.com/courses/responsive-css-sticky-footer"
+    "title": "489 Soketi Basics",
+    "value": "https://codecourse.com/courses/soketi-basics"
   },
   {
-    "title": "19 Emmet - The Essential Toolkit For Web Developers",
-    "value": "https://codecourse.com/courses/emmet-the-essential-toolkit-for-web-developers"
+    "title": "488 PHP Enums",
+    "value": "https://codecourse.com/courses/php-enums"
   },
   {
-    "title": "24 Take Photos With Your Webcam In Your Browser",
-    "value": "https://codecourse.com/courses/take-photos-with-your-webcam-in-your-browser"
+    "title": "487 The Eloquent Query Method",
+    "value": "https://codecourse.com/courses/the-eloquent-query-method"
   },
   {
-    "title": "32 Sniff Out Unclean Code with PHP CodeSniffer",
-    "value": "https://codecourse.com/courses/sniff-out-unclean-code-with-php-codesniffer"
-  },
-  {
-    "title": "33 Generate Scannable QR Codes With PHP",
-    "value": "https://codecourse.com/courses/generate-scannable-qr-codes-with-php"
-  },
-  {
-    "title": "34 Generate Fake Data with PHP using Faker",
-    "value": "https://codecourse.com/courses/generate-fake-data-with-php-using-faker"
-  },
-  {
-    "title": "50 Flattening A PHP Multidimensional Array",
-    "value": "https://codecourse.com/courses/flattening-a-php-multidimensional-array"
-  },
-  {
-    "title": "54 Dates And Times in PHP",
-    "value": "https://codecourse.com/courses/dates-and-times-in-php"
-  },
-  {
-    "title": "63 Using PHP's Built-In Web Server",
-    "value": "https://codecourse.com/courses/using-php-built-in-web-server"
-  },
-  {
-    "title": "64 Getting started with Sass",
-    "value": "https://codecourse.com/courses/getting-started-with-sass"
-  },
-  {
-    "title": "74 The PHP Reflection API",
-    "value": "https://codecourse.com/courses/the-php-reflection-api"
-  },
-  {
-    "title": "75 The SOLID Design Principals",
-    "value": "https://codecourse.com/courses/the-solid-design-principals"
-  },
-  {
-    "title": "82 Send Email With PHPMailer",
-    "value": "https://codecourse.com/courses/send-email-with-phpmailer"
-  },
-  {
-    "title": "83 Realtime notifications with Pusher",
-    "value": "https://codecourse.com/courses/real-time-notifications-with-pusher"
-  },
-  {
-    "title": "85 Social Network",
-    "value": "https://codecourse.com/courses/social-network"
-  },
-  {
-    "title": "86 Database Models with PDO",
-    "value": "https://codecourse.com/courses/database-models-with-pdo"
-  },
-  {
-    "title": "87 Realtime chat with Pusher",
-    "value": "https://codecourse.com/courses/realtime-chat-with-pusher"
-  },
-  {
-    "title": "90 Flexible flash notifications in Laravel",
-    "value": "https://codecourse.com/courses/laravel-flash-notifications"
-  },
-  {
-    "title": "93 Cloud Image Upload with Laravel",
-    "value": "https://codecourse.com/courses/cloud-image-upload-laravel"
-  },
-  {
-    "title": "96 PHP Security",
-    "value": "https://codecourse.com/courses/php-security"
-  },
-  {
-    "title": "97 Generating PDF files from HTML and CSS",
-    "value": "https://codecourse.com/courses/generate-pdf-from-html-css"
-  },
-  {
-    "title": "98 Basic location searching with MongoDB",
-    "value": "https://codecourse.com/courses/location-search-with-mongodb"
-  },
-  {
-    "title": "99 Fun with Ternery Operators in PHP",
-    "value": "https://codecourse.com/courses/php-ternery-operators"
-  },
-  {
-    "title": "100 Deploying Laravel Applications with Forge and Envoyer",
-    "value": "https://codecourse.com/courses/deploying-laravel-applications-with-forge-and-envoyer"
-  },
-  {
-    "title": "101 Location searching with Google Maps and MongoDB",
-    "value": "https://codecourse.com/courses/google-maps-mongodb-search"
-  },
-  {
-    "title": "104 Learn PDO (PHP Data Objects)",
-    "value": "https://codecourse.com/courses/php-pdo-data-objects"
-  },
-  {
-    "title": "106 Quickly converting an array to an object in PHP",
-    "value": "https://codecourse.com/courses/php-convert-array-to-object"
-  },
-  {
-    "title": "108 Views with Slim 3",
-    "value": "https://codecourse.com/courses/views-with-slim-3"
-  },
-  {
-    "title": "109 PDO with Slim 3",
-    "value": "https://codecourse.com/courses/pdo-with-slim-3"
-  },
-  {
-    "title": "110 Protecting email addresses from bots",
-    "value": "https://codecourse.com/courses/protect-email-addresses-from-bots"
-  },
-  {
-    "title": "111 Generating secure random strings with PHP",
-    "value": "https://codecourse.com/courses/securely-generate-strings-php"
-  },
-  {
-    "title": "112 Configuration with Slim 3",
-    "value": "https://codecourse.com/courses/configuration-with-slim-3"
-  },
-  {
-    "title": "113 Sending email with Mailgun",
-    "value": "https://codecourse.com/courses/sending-email-with-mailgun"
-  },
-  {
-    "title": "114 Self-destructing message app",
-    "value": "https://codecourse.com/courses/self-destructing-message-app"
-  },
-  {
-    "title": "116 Sending SMS with Twillio",
-    "value": "https://codecourse.com/courses/sending-sms-with-twillio"
-  },
-  {
-    "title": "117 Understanding namespaces",
-    "value": "https://codecourse.com/courses/php-namespaces"
-  },
-  {
-    "title": "118 Flashing messages with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-flash-messages"
-  },
-  {
-    "title": "119 Laravel searching with Algolia",
-    "value": "https://codecourse.com/courses/laravel-search-algolia"
-  },
-  {
-    "title": "120 The best of PHP 7",
-    "value": "https://codecourse.com/courses/php-7-new-features"
-  },
-  {
-    "title": "121 So, what's an interface?",
-    "value": "https://codecourse.com/courses/php-interfaces"
-  },
-  {
-    "title": "123 Laravel Route Model Binding",
-    "value": "https://codecourse.com/courses/laravel-route-model-binding"
-  },
-  {
-    "title": "124 Build a REST API",
-    "value": "https://codecourse.com/courses/php-rest-api"
-  },
-  {
-    "title": "125 Get started with Laravel Lumen",
-    "value": "https://codecourse.com/courses/getting-started-laravel-lumen"
-  },
-  {
-    "title": "127 Build your own Collection class",
-    "value": "https://codecourse.com/courses/build-your-own-collection-class"
-  },
-  {
-    "title": "128 To BEM or not to BEM?",
-    "value": "https://codecourse.com/courses/to-bem-or-not-to-bem"
-  },
-  {
-    "title": "129 Templates with Twig",
-    "value": "https://codecourse.com/courses/templates-with-twig"
-  },
-  {
-    "title": "130 A taste of Gulp",
-    "value": "https://codecourse.com/courses/a-taste-of-gulp"
-  },
-  {
-    "title": "131 Flexible Service Providers",
-    "value": "https://codecourse.com/courses/flexible-laravel-service-providers"
-  },
-  {
-    "title": "133 Design Patterns: Strategy Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-strategy"
-  },
-  {
-    "title": "134 Build a storage class",
-    "value": "https://codecourse.com/courses/build-a-storage-class"
-  },
-  {
-    "title": "135 PSR-4 Autoloading with Composer",
-    "value": "https://codecourse.com/courses/psr-4-autoloading-with-composer"
-  },
-  {
-    "title": "136 Making Sublime Awesome",
-    "value": "https://codecourse.com/courses/making-sublime-awesome"
-  },
-  {
-    "title": "138 Real-time chat with Node.js, Socket.io and Vue.js",
-    "value": "https://codecourse.com/courses/real-time-chat-node-socket-vue"
-  },
-  {
-    "title": "139 Lightning fast Laravel Authentication",
-    "value": "https://codecourse.com/courses/quick-laravel-authentication"
-  },
-  {
-    "title": "140 Vue.js todo list",
-    "value": "https://codecourse.com/courses/vue-js-todo-list"
-  },
-  {
-    "title": "141 Build a Twitter style application",
-    "value": "https://codecourse.com/courses/twitter-style-application"
-  },
-  {
-    "title": "142 Instant typeahead search with Algolia",
-    "value": "https://codecourse.com/courses/instant-dropdown-search-with-algolia"
-  },
-  {
-    "title": "143 Enforcing referential integrity with the Laravel Schema builder",
-    "value": "https://codecourse.com/courses/referential-integrity-laravel"
-  },
-  {
-    "title": "144 MailChimp with Laravel",
-    "value": "https://codecourse.com/courses/mailchimp-laravel"
-  },
-  {
-    "title": "145 Custom Pagination Presenters with Laravel",
-    "value": "https://codecourse.com/courses/custom-pagination-presenters-links-laravel"
-  },
-  {
-    "title": "146 Learn Laravel",
-    "value": "https://codecourse.com/courses/laravel-fundamentals"
-  },
-  {
-    "title": "147 Design Patterns: Decorator Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-decorator"
-  },
-  {
-    "title": "148 Design Patterns: Observer Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-observer-pattern"
-  },
-  {
-    "title": "149 Design Patterns: Adapter Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-adapter-pattern"
-  },
-  {
-    "title": "150 Easy social authentication",
-    "value": "https://codecourse.com/courses/easy-social-authentication"
-  },
-  {
-    "title": "151 Random numbers and bytes with PHP7",
-    "value": "https://codecourse.com/courses/php7-random-numbers-and-strings"
-  },
-  {
-    "title": "152 Design Patterns: Specification Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-specification"
-  },
-  {
-    "title": "153 Controllers and Dependency Injection with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-controllers-dependency-injection"
-  },
-  {
-    "title": "154 Custom 404 views with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-custom-404-views"
-  },
-  {
-    "title": "155 Authentication with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-authentication"
-  },
-  {
-    "title": "157 Laravel Events and Listeners",
-    "value": "https://codecourse.com/courses/laravel-events-and-listeners"
-  },
-  {
-    "title": "158 Design Patterns: Factory Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-factory-pattern"
-  },
-  {
-    "title": "159 Eloquent and Slim",
-    "value": "https://codecourse.com/courses/laravel-eloquent-with-slim-3"
-  },
-  {
-    "title": "160 Awesome uploads with Uploadcare",
-    "value": "https://codecourse.com/courses/awesome-uploads-with-uploadcare"
-  },
-  {
-    "title": "161 Validation with Slim 3",
-    "value": "https://codecourse.com/courses/validation-with-slim-3"
-  },
-  {
-    "title": "162 Single-page Forum App: API",
-    "value": "https://codecourse.com/courses/single-page-forum-app-api"
-  },
-  {
-    "title": "163 Single-page Forum App: Frontend",
-    "value": "https://codecourse.com/courses/single-page-forum-app-vue-js"
-  },
-  {
-    "title": "164 Custom session handlers",
-    "value": "https://codecourse.com/courses/custom-php-database-session-handler"
-  },
-  {
-    "title": "165 Design Patterns: Singleton Pattern",
-    "value": "https://codecourse.com/courses/design-patterns-singleton-pattern"
-  },
-  {
-    "title": "166 Build a beautiful blog with Laravel",
-    "value": "https://codecourse.com/courses/build-a-beautiful-blog-with-laravel"
-  },
-  {
-    "title": "167 Practical Object Oriented Programming",
-    "value": "https://codecourse.com/courses/practical-object-oriented-programming"
-  },
-  {
-    "title": "168 Build a shopping cart",
-    "value": "https://codecourse.com/courses/build-a-shopping-cart"
-  },
-  {
-    "title": "169 Securing configuration",
-    "value": "https://codecourse.com/courses/securing-php-configuration"
-  },
-  {
-    "title": "170 Mini image upload project",
-    "value": "https://codecourse.com/courses/mini-php-upload-project"
-  },
-  {
-    "title": "171 Laravel Subscriptions",
-    "value": "https://codecourse.com/courses/laravel-subscriptions"
-  },
-  {
-    "title": "172 Exposing your local web server",
-    "value": "https://codecourse.com/courses/exposing-your-local-web-server"
-  },
-  {
-    "title": "173 Exposing Laravel Homestead projects",
-    "value": "https://codecourse.com/courses/exposing-laravel-homestead-projects"
-  },
-  {
-    "title": "174 Laravel Tasklist (Beginner)",
-    "value": "https://codecourse.com/courses/laravel-tasklist-basic"
-  },
-  {
-    "title": "175 Laravel Tasklist (Intermediate)",
-    "value": "https://codecourse.com/courses/laravel-tasklist-intermediate"
-  },
-  {
-    "title": "176 Build a Twitter Bot",
-    "value": "https://codecourse.com/courses/build-a-twitter-bot"
-  },
-  {
-    "title": "177 Build a Twitter Bot with Laravel",
-    "value": "https://codecourse.com/courses/build-a-twitter-bot-laravel"
-  },
-  {
-    "title": "178 Roll your own mini framework",
-    "value": "https://codecourse.com/courses/build-your-own-php-framework"
-  },
-  {
-    "title": "179 Arrays are everything",
-    "value": "https://codecourse.com/courses/arrays-are-everything"
-  },
-  {
-    "title": "180 Two Factor Authentication with Laravel",
-    "value": "https://codecourse.com/courses/two-factor-authentication-with-laravel"
-  },
-  {
-    "title": "181 Tidying up controllers with view composers",
-    "value": "https://codecourse.com/courses/tidying-up-controllers-with-view-composers"
-  },
-  {
-    "title": "182 Accelerometer ball control app",
-    "value": "https://codecourse.com/courses/accelerometer-ball-control-app"
-  },
-  {
-    "title": "183 Tips for cleaner code",
-    "value": "https://codecourse.com/courses/tips-for-cleaner-code"
-  },
-  {
-    "title": "184 CSS Animated Poké Ball",
-    "value": "https://codecourse.com/courses/css-animated-poke-ball"
-  },
-  {
-    "title": "186 Real-time command line chat",
-    "value": "https://codecourse.com/courses/real-time-command-line-chat"
-  },
-  {
-    "title": "187 SPL Interfaces and Classes",
-    "value": "https://codecourse.com/courses/spl-interfaces-and-classes"
-  },
-  {
-    "title": "188 Laravel on Heroku",
-    "value": "https://codecourse.com/courses/laravel-on-heroku"
-  },
-  {
-    "title": "192 Laravel Queues",
-    "value": "https://codecourse.com/courses/laravel-queues"
-  },
-  {
-    "title": "193 PHP Essentials",
-    "value": "https://codecourse.com/courses/php-essentials"
-  },
-  {
-    "title": "194 Powerful searching with Laravel Scout",
-    "value": "https://codecourse.com/courses/laravel-scout"
-  },
-  {
-    "title": "195 Laravel YouTube Clone",
-    "value": "https://codecourse.com/courses/laravel-youtube-clone"
-  },
-  {
-    "title": "197 The Symfony Console Component",
-    "value": "https://codecourse.com/courses/symfony-console-component"
-  },
-  {
-    "title": "198 Passwordless Authentication with Laravel",
-    "value": "https://codecourse.com/courses/passwordless-authentication-with-laravel"
-  },
-  {
-    "title": "199 Flexible Social Authentication with Laravel",
-    "value": "https://codecourse.com/courses/flexible-social-authentication-with-laravel"
-  },
-  {
-    "title": "200 ASCII Camera Project",
-    "value": "https://codecourse.com/courses/ascii-camera-project"
-  },
-  {
-    "title": "202 Build and deploy an on-the-fly image manipulation microservice",
-    "value": "https://codecourse.com/courses/image-manipulation-microservice"
-  },
-  {
-    "title": "203 Filters in Vue.js 2.0",
-    "value": "https://codecourse.com/courses/filters-in-vue-2"
-  },
-  {
-    "title": "204 Multiple File Drag & Drop Uploader",
-    "value": "https://codecourse.com/courses/multiple-file-drag-and-drop-uploader"
-  },
-  {
-    "title": "207 PHP Basics",
-    "value": "https://codecourse.com/courses/php-basics"
-  },
-  {
-    "title": "208 API Authentication with Laravel Passport",
-    "value": "https://codecourse.com/courses/api-authentication-with-laravel-passport"
-  },
-  {
-    "title": "209 The Liker Project",
-    "value": "https://codecourse.com/courses/the-liker-project-laravel-echo"
-  },
-  {
-    "title": "210 Caching with Redis",
-    "value": "https://codecourse.com/courses/caching-with-redis"
-  },
-  {
-    "title": "211 API Development with Laravel",
-    "value": "https://codecourse.com/courses/api-development-with-laravel"
-  },
-  {
-    "title": "212 Paginated Vue Components with Laravel",
-    "value": "https://codecourse.com/courses/paginated-vue-components-with-laravel"
-  },
-  {
-    "title": "213 Beautiful Slim CSRF Protection",
-    "value": "https://codecourse.com/courses/beautiful-slim-csrf-protection"
-  },
-  {
-    "title": "214 Slim Controllers",
-    "value": "https://codecourse.com/courses/slim-controllers"
-  },
-  {
-    "title": "216 What's new in PHP 7.1",
-    "value": "https://codecourse.com/courses/php-71"
-  },
-  {
-    "title": "217 Unit testing with PHPUnit",
-    "value": "https://codecourse.com/courses/unit-testing-with-php-unit"
-  },
-  {
-    "title": "218 Laravel third-party integration: Effortless spam detection",
-    "value": "https://codecourse.com/courses/laravel-spam-protection"
-  },
-  {
-    "title": "219 Laravel Acceptance Testing",
-    "value": "https://codecourse.com/courses/laravel-acceptance-testing"
-  },
-  {
-    "title": "220 Learn Slim 3",
-    "value": "https://codecourse.com/courses/learn-slim-3"
-  },
-  {
-    "title": "221 Build a classified ads site",
-    "value": "https://codecourse.com/courses/build-a-classified-ads-site"
-  },
-  {
-    "title": "222 Laravel Tagging package development",
-    "value": "https://codecourse.com/courses/laravel-tagging-package-development"
-  },
-  {
-    "title": "223 Symfony VarDumper",
-    "value": "https://codecourse.com/courses/symfony-vardumper"
-  },
-  {
-    "title": "224 DRYing up code with Eloquent Model Observers",
-    "value": "https://codecourse.com/courses/drying-up-with-eloquent-model-observers"
-  },
-  {
-    "title": "225 Building array helper functions",
-    "value": "https://codecourse.com/courses/building-array-helper-functions"
-  },
-  {
-    "title": "227 The Symfony Translation Component",
-    "value": "https://codecourse.com/courses/symfony-translation-component"
-  },
-  {
-    "title": "228 Eloquent By Example",
-    "value": "https://codecourse.com/courses/eloquent-by-example"
-  },
-  {
-    "title": "229 Laravel real-time private messages",
-    "value": "https://codecourse.com/courses/laravel-private-messages-dashboard"
-  },
-  {
-    "title": "231 Build a Placekitten clone with Silex",
-    "value": "https://codecourse.com/courses/build-a-placekitten-clone"
-  },
-  {
-    "title": "232 Dropdown Autocomplete Search Anything",
-    "value": "https://codecourse.com/courses/dropdown-autocomplete-search-anything"
-  },
-  {
-    "title": "233 Roles and permissions in Laravel",
-    "value": "https://codecourse.com/courses/laravel-roles-and-permissions"
-  },
-  {
-    "title": "234 Vue/Vuex Single Page App Boilerplate",
-    "value": "https://codecourse.com/courses/vue-laravel-spa"
-  },
-  {
-    "title": "235 Slim 3 Pagination",
-    "value": "https://codecourse.com/courses/slim-3-pagination"
-  },
-  {
-    "title": "236 Drag and drop sorting with Laravel",
-    "value": "https://codecourse.com/courses/laravel-drag-and-drop-sorting"
-  },
-  {
-    "title": "237 Build a notes app with Vuex",
-    "value": "https://codecourse.com/courses/vuex-notes-app"
-  },
-  {
-    "title": "238 Build a Podcast App",
-    "value": "https://codecourse.com/courses/build-a-podcast-site"
-  },
-  {
-    "title": "239 Learn ES6 (ECMAScript 2015)",
-    "value": "https://codecourse.com/courses/learn-es6"
-  },
-  {
-    "title": "240 Recursive comment nesting in Laravel",
-    "value": "https://codecourse.com/courses/recursive-comment-nesting-in-laravel"
-  },
-  {
-    "title": "241 Testing middleware in Laravel",
-    "value": "https://codecourse.com/courses/testing-laravel-middleware"
-  },
-  {
-    "title": "242 Quick and easy avatar uploads",
-    "value": "https://codecourse.com/courses/laravel-avatar-uploads"
-  },
-  {
-    "title": "243 Build a URL shortener",
-    "value": "https://codecourse.com/courses/build-a-url-shortener"
-  },
-  {
-    "title": "244 Unit testing Vuex",
-    "value": "https://codecourse.com/courses/unit-testing-vuex"
-  },
-  {
-    "title": "245 Flexbox crash course",
-    "value": "https://codecourse.com/courses/flexbox-crash-course"
-  },
-  {
-    "title": "246 Slim API rate limiting middleware from scratch",
-    "value": "https://codecourse.com/courses/slim-api-rate-limiting-middleware"
-  },
-  {
-    "title": "247 Learn Vuex",
-    "value": "https://codecourse.com/courses/learn-vuex"
-  },
-  {
-    "title": "248 End-to-end Browser Testing with Laravel Dusk",
-    "value": "https://codecourse.com/courses/end-to-end-browser-testing-with-laravel-dusk"
-  },
-  {
-    "title": "249 Database migrations with Slim",
-    "value": "https://codecourse.com/courses/database-migrations-with-slim"
-  },
-  {
-    "title": "251 Testing Laravel Form Requests",
-    "value": "https://codecourse.com/courses/testing-laravel-form-requests"
-  },
-  {
-    "title": "252 Laravel Chatroom",
-    "value": "https://codecourse.com/courses/laravel-chatroom"
-  },
-  {
-    "title": "253 Profiling JSON responses in Laravel",
-    "value": "https://codecourse.com/courses/profiling-json-responses-in-laravel"
-  },
-  {
-    "title": "254 Mailable Classes in Slim 3",
-    "value": "https://codecourse.com/courses/mailable-classes-in-slim-3"
-  },
-  {
-    "title": "255 Separate database for Laravel queues",
-    "value": "https://codecourse.com/courses/separate-database-for-laravel-queues"
-  },
-  {
-    "title": "256 Build a Distraction Dashboard",
-    "value": "https://codecourse.com/courses/build-a-distraction-dashboard"
-  },
-  {
-    "title": "258 Build a File Marketplace with Laravel",
-    "value": "https://codecourse.com/courses/build-a-file-marketplace"
-  },
-  {
-    "title": "259 New in Laravel 5.5",
-    "value": "https://codecourse.com/courses/new-in-laravel-5-5"
-  },
-  {
-    "title": "260 Clean code Laravel",
-    "value": "https://codecourse.com/courses/clean-code-laravel"
-  },
-  {
-    "title": "261 Vuex validation strategies",
-    "value": "https://codecourse.com/courses/vuex-validation-strategies"
-  },
-  {
-    "title": "262 The Repository Pattern in Laravel",
-    "value": "https://codecourse.com/courses/the-repository-pattern-in-laravel"
-  },
-  {
-    "title": "263 Practical Git",
-    "value": "https://codecourse.com/courses/practical-git"
-  },
-  {
-    "title": "265 Learn Vue.js",
-    "value": "https://codecourse.com/courses/learn-vue-js"
-  },
-  {
-    "title": "266 Vue.js components",
-    "value": "https://codecourse.com/courses/vue-js-components"
-  },
-  {
-    "title": "267 Learn Vue.js by example",
-    "value": "https://codecourse.com/courses/learn-vue-js-by-example"
-  },
-  {
-    "title": "268 Laravel DataTables",
-    "value": "https://codecourse.com/courses/laravel-datatables"
-  },
-  {
-    "title": "269 Routing with Vue.js",
-    "value": "https://codecourse.com/courses/routing-with-vue-js"
-  },
-  {
-    "title": "270 Realtime PHP with Ratchet",
-    "value": "https://codecourse.com/courses/realtime-php-with-ratchet"
-  },
-  {
-    "title": "271 Build your own realtime PHP server",
-    "value": "https://codecourse.com/courses/build-your-own-realtime-php-server"
-  },
-  {
-    "title": "272 Roll your own event dispatcher",
-    "value": "https://codecourse.com/courses/roll-your-own-event-dispatcher"
-  },
-  {
-    "title": "273 Forcing HTTPS assets with Laravel",
-    "value": "https://codecourse.com/courses/snippet-forcing-assets-with-laravel"
-  },
-  {
-    "title": "274 Filtering in Laravel",
-    "value": "https://codecourse.com/courses/filtering-in-laravel"
-  },
-  {
-    "title": "275 Filtering in Laravel: Blade",
-    "value": "https://codecourse.com/courses/filtering-in-laravel-blade"
-  },
-  {
-    "title": "277 Filtering in Laravel: Vue.js",
-    "value": "https://codecourse.com/courses/filtering-in-laravel-vue-js"
-  },
-  {
-    "title": "278 Roll your own task scheduler",
-    "value": "https://codecourse.com/courses/roll-your-own-task-scheduler"
-  },
-  {
-    "title": "279 Learn how autowiring works",
-    "value": "https://codecourse.com/courses/learn-how-autowiring-works"
-  },
-  {
-    "title": "280 Better Vue pagination",
-    "value": "https://codecourse.com/courses/better-vue-pagination"
-  },
-  {
-    "title": "281 Create a Telegram reminder app",
-    "value": "https://codecourse.com/courses/create-a-telegram-reminder-app"
-  },
-  {
-    "title": "282 Impersonating users in Laravel",
-    "value": "https://codecourse.com/courses/snippet-impersonating-users-in-laravel"
-  },
-  {
-    "title": "284 Build a JavaScript breakout game with Phaser",
-    "value": "https://codecourse.com/courses/build-a-javascript-breakout-game-with-phaser"
-  },
-  {
-    "title": "285 Get friendly with Webpack",
-    "value": "https://codecourse.com/courses/get-friendly-with-webpack"
-  },
-  {
-    "title": "286 Laravel SaaS Boilerplate",
-    "value": "https://codecourse.com/courses/laravel-saas-boilerplate"
-  },
-  {
-    "title": "287 Building a Vue project with Webpack",
-    "value": "https://codecourse.com/courses/building-a-vue-project-with-webpack"
-  },
-  {
-    "title": "288 Learn Vue.js Server-Side Rendering",
-    "value": "https://codecourse.com/courses/learn-vue-js-server-side-rendering"
-  },
-  {
-    "title": "289 Build a multi-user video chat app",
-    "value": "https://codecourse.com/courses/build-a-multi-user-video-chat-app"
-  },
-  {
-    "title": "290 Structuring Laravel for larger projects",
-    "value": "https://codecourse.com/courses/snippet-structuring-laravel-for-larger-projects"
-  },
-  {
-    "title": "291 Laravel multi-tenancy: Single database",
-    "value": "https://codecourse.com/courses/laravel-single-database-multi-tenancy"
-  },
-  {
-    "title": "292 Build a command-line uptime monitor",
-    "value": "https://codecourse.com/courses/build-a-command-line-uptime-monitor"
-  },
-  {
-    "title": "293 Laravel Internals: Macroable",
-    "value": "https://codecourse.com/courses/laravel-internals-macroable"
-  },
-  {
-    "title": "294 Nuxt.js Quickstart",
-    "value": "https://codecourse.com/courses/nuxt-js-quickstart"
-  },
-  {
-    "title": "295 The \"No Framework\" Framework",
-    "value": "https://codecourse.com/courses/the-no-framework-framework"
-  },
-  {
-    "title": "296 Cleaning up code with dynamic method calling",
-    "value": "https://codecourse.com/courses/cleaning-up-code-with-dynamic-method-calling"
-  },
-  {
-    "title": "297 Eloquent Observers in Slim 3",
-    "value": "https://codecourse.com/courses/eloquent-observers-in-slim-3"
-  },
-  {
-    "title": "298 Custom exception handling in Slim 3",
-    "value": "https://codecourse.com/courses/custom-exception-handling-in-slim-3"
-  },
-  {
-    "title": "299 Build a forum with AdonisJS",
-    "value": "https://codecourse.com/courses/build-a-forum-with-adonis-js"
-  },
-  {
-    "title": "300 Eloquent translations with Slim 3",
-    "value": "https://codecourse.com/courses/eloquent-translations-with-slim-3"
-  },
-  {
-    "title": "301 Nuxt.js + Laravel Authentication",
-    "value": "https://codecourse.com/courses/nuxt-js-laravel-authentication"
-  },
-  {
-    "title": "302 Automatically separate user file uploads in Laravel",
-    "value": "https://codecourse.com/courses/automatically-separate-user-file-uploads-in-laravel"
-  },
-  {
-    "title": "303 Vue Style Guide",
-    "value": "https://codecourse.com/courses/vue-style-guide"
-  },
-  {
-    "title": "304 Laravel multi-tenancy: Multi database",
-    "value": "https://codecourse.com/courses/laravel-tenancy-multi-database"
-  },
-  {
-    "title": "305 Build an image upload microservice",
-    "value": "https://codecourse.com/courses/build-an-image-upload-microservice"
-  },
-  {
-    "title": "306 Anonymous relationships in Laravel",
-    "value": "https://codecourse.com/courses/anonymous-relationships-in-laravel"
-  },
-  {
-    "title": "307 Laravel API resources",
-    "value": "https://codecourse.com/courses/laravel-api-resources"
-  },
-  {
-    "title": "308 Globally registering Vue components",
-    "value": "https://codecourse.com/courses/globally-registering-vue-components"
-  },
-  {
-    "title": "309 Building with Atomic CSS",
-    "value": "https://codecourse.com/courses/building-with-atomic-css"
-  },
-  {
-    "title": "310 Making Eloquent models 'LiveAware'",
-    "value": "https://codecourse.com/courses/making-eloquent-models-live-aware"
-  },
-  {
-    "title": "312 Cleanly iterating over JavaScript objects",
-    "value": "https://codecourse.com/courses/cleanly-iterating-over-javascript-objects"
-  },
-  {
-    "title": "313 Reusable Laravel comments",
-    "value": "https://codecourse.com/courses/reusable-laravel-comments"
-  },
-  {
-    "title": "314 Dynamic breadcrumbs in Laravel",
-    "value": "https://codecourse.com/courses/dynamic-breadcrumbs-in-laravel"
-  },
-  {
-    "title": "315 The Laravel tap() function",
-    "value": "https://codecourse.com/courses/the-laravel-tap-function"
-  },
-  {
-    "title": "316 Firing webhooks from your Laravel app",
-    "value": "https://codecourse.com/courses/firing-webhooks-from-your-laravel-app"
-  },
-  {
-    "title": "317 Action-Domain-Responder (ADR) with Slim",
-    "value": "https://codecourse.com/courses/action-domain-responder-adr-with-slim"
-  },
-  {
-    "title": "318 Using multiple keys for route model binding",
-    "value": "https://codecourse.com/courses/using-multiple-keys-for-route-model-binding"
-  },
-  {
-    "title": "319 Action-Domain-Responder (ADR) with Laravel",
-    "value": "https://codecourse.com/courses/action-domain-responder-with-laravel"
-  },
-  {
-    "title": "320 The optional() helper callback",
-    "value": "https://codecourse.com/courses/the-optional-helper-callback"
-  },
-  {
-    "title": "321 Practical Vue Components",
-    "value": "https://codecourse.com/courses/practical-vue-components"
-  },
-  {
-    "title": "322 JWT Authentication from Scratch",
-    "value": "https://codecourse.com/courses/jwt-authentication-from-scratch"
-  },
-  {
-    "title": "323 DigitalOcean spaces with Laravel",
-    "value": "https://codecourse.com/courses/digital-ocean-spaces-with-laravel"
-  },
-  {
-    "title": "324 Vue Stash",
-    "value": "https://codecourse.com/courses/vue-stash"
-  },
-  {
-    "title": "325 Build an e-commerce platform",
-    "value": "https://codecourse.com/courses/build-an-e-commerce-platform"
-  },
-  {
-    "title": "326 Bootable traits in Laravel",
-    "value": "https://codecourse.com/courses/bootable-traits-in-laravel"
-  },
-  {
-    "title": "327 Refactoring chained where methods in Laravel",
-    "value": "https://codecourse.com/courses/refactoring-chained-where-methods-in-laravel"
-  },
-  {
-    "title": "328 Roll your own Facades",
-    "value": "https://codecourse.com/courses/roll-your-own-facades"
-  },
-  {
-    "title": "329 Laravel Hashids",
-    "value": "https://codecourse.com/courses/laravel-hashids"
-  },
-  {
-    "title": "332 Using League Container with Slim",
-    "value": "https://codecourse.com/courses/using-league-container-with-slim"
-  },
-  {
-    "title": "333 Real-time User Experience Points",
-    "value": "https://codecourse.com/courses/real-time-user-experience-points"
-  },
-  {
-    "title": "334 Automatically generating events and listeners in Laravel",
-    "value": "https://codecourse.com/courses/automatically-generating-events-and-listeners-in-laravel"
-  },
-  {
-    "title": "336 The Pagination Builder",
-    "value": "https://codecourse.com/courses/the-pagination-builder"
-  },
-  {
-    "title": "337 New in Laravel 5.7",
-    "value": "https://codecourse.com/courses/new-in-laravel-5-7"
-  },
-  {
-    "title": "338 Using .env files with Nuxt",
-    "value": "https://codecourse.com/courses/using-env-files-with-nuxt"
-  },
-  {
-    "title": "339 Magically invoking Laravel controller methods",
-    "value": "https://codecourse.com/courses/magically-invoking-laravel-controller-methods"
-  },
-  {
-    "title": "340 Infinite Scrolling Search with Vue + Algolia",
-    "value": "https://codecourse.com/courses/infinite-scrolling-search-with-vue-and-algolia"
-  },
-  {
-    "title": "341 Dynamic Vue Components",
-    "value": "https://codecourse.com/courses/dynamic-vue-components"
-  },
-  {
-    "title": "342 Better Laravel Database Notifications",
-    "value": "https://codecourse.com/courses/better-laravel-database-notifications"
-  },
-  {
-    "title": "343 Recreate our auto-hiding sliding navigation",
-    "value": "https://codecourse.com/courses/recreate-our-auto-hiding-sliding-navigation"
-  },
-  {
-    "title": "344 Testing Vue",
-    "value": "https://codecourse.com/courses/testing-vue"
-  },
-  {
-    "title": "345 Grouping Laravel Notifications",
-    "value": "https://codecourse.com/courses/grouping-laravel-notifications"
-  },
-  {
-    "title": "346 Create a Laravel Scout Elasticsearch Driver",
-    "value": "https://codecourse.com/courses/create-a-laravel-scout-elasticsearch-driver"
-  },
-  {
-    "title": "347 Inline Vue Validation in Under 10 Minutes",
-    "value": "https://codecourse.com/courses/inline-vue-validation-in-under-10-minutes"
-  },
-  {
-    "title": "348 Vue.js + Firebase Authentication",
-    "value": "https://codecourse.com/courses/vue-js-firebase-authentication"
-  },
-  {
-    "title": "349 Super Fast Data Nesting",
-    "value": "https://codecourse.com/courses/super-fast-data-nesting"
-  },
-  {
-    "title": "350 Custom Laravel Collections",
-    "value": "https://codecourse.com/courses/custom-laravel-collections"
-  },
-  {
-    "title": "351 Multistep forms with Laravel",
-    "value": "https://codecourse.com/courses/multistep-forms-with-laravel"
-  },
-  {
-    "title": "352 The Liker Project 2.0",
-    "value": "https://codecourse.com/courses/the-liker-project-2.0"
-  },
-  {
-    "title": "353 Laravel Teams",
-    "value": "https://codecourse.com/courses/laravel-teams"
-  },
-  {
-    "title": "354 Tailwind with Nuxt.js",
-    "value": "https://codecourse.com/courses/tailwind-with-nuxt-js"
-  },
-  {
-    "title": "355 Learn Slim 4",
-    "value": "https://codecourse.com/courses/learn-slim-4"
-  },
-  {
-    "title": "356 Learn Dart",
-    "value": "https://codecourse.com/courses/learn-dart"
-  },
-  {
-    "title": "357 Deploying Nuxt",
-    "value": "https://codecourse.com/courses/deploying-nuxt"
-  },
-  {
-    "title": "358 Vue Roles and Permissions",
-    "value": "https://codecourse.com/courses/vue-roles-and-permissions"
-  },
-  {
-    "title": "359 Views with Slim 4",
-    "value": "https://codecourse.com/courses/views-with-slim-4"
-  },
-  {
-    "title": "360 Setting up Flutter",
-    "value": "https://codecourse.com/courses/setting-up-flutter"
-  },
-  {
-    "title": "361 Your first Flutter app",
-    "value": "https://codecourse.com/courses/your-first-flutter-app"
-  },
-  {
-    "title": "362 Build a shopping list with Flutter",
-    "value": "https://codecourse.com/courses/build-a-shopping-list-with-flutter"
-  },
-  {
-    "title": "363 API Requests with Flutter",
-    "value": "https://codecourse.com/courses/api-requests-with-flutter"
-  },
-  {
-    "title": "364 Build a Devspiration app",
-    "value": "https://codecourse.com/courses/build-a-devspiration-app"
-  },
-  {
-    "title": "365 League Container with Slim 4",
-    "value": "https://codecourse.com/courses/league-container-with-slim-4"
-  },
-  {
-    "title": "366 Setting up Doctrine in Slim 4",
-    "value": "https://codecourse.com/courses/setting-up-doctrine-in-slim-4"
-  },
-  {
-    "title": "367 Vue InstantSearch in Nuxt",
-    "value": "https://codecourse.com/courses/vue-instantsearch-in-nuxt"
-  },
-  {
-    "title": "368 Flutter State Management with Provider",
-    "value": "https://codecourse.com/courses/flutter-state-management-with-provider"
-  },
-  {
-    "title": "369 Build a notes app with Flutter",
-    "value": "https://codecourse.com/courses/build-a-notes-app-with-flutter"
-  },
-  {
-    "title": "370 Flexible Database Ordering with Laravel",
-    "value": "https://codecourse.com/courses/flexible-database-ordering-with-laravel"
-  },
-  {
-    "title": "371 Vue Authentication",
-    "value": "https://codecourse.com/courses/vue-authentication"
-  },
-  {
-    "title": "372 Cleanly Setting Axios Base URL",
-    "value": "https://codecourse.com/courses/cleanly-setting-axios-base-url"
-  },
-  {
-    "title": "373 Vue Two-Factor Authentication",
-    "value": "https://codecourse.com/courses/vue-two-factor-authentication"
-  },
-  {
-    "title": "374 Laravel View Presenters",
-    "value": "https://codecourse.com/courses/laravel-view-presenters"
-  },
-  {
-    "title": "375 Build a code snippet website",
-    "value": "https://codecourse.com/courses/build-a-code-snippet-website-with-me"
-  },
-  {
-    "title": "376 Vue Multiple File Drag & Drop Uploader",
-    "value": "https://codecourse.com/courses/vue-multiple-file-drag-and-drop-uploader"
-  },
-  {
-    "title": "377 Laravel Custom Validation Strategies",
-    "value": "https://codecourse.com/courses/laravel-custom-validation-strategies"
-  },
-  {
-    "title": "378 Super Clean CSRF Protection with Slim 4",
-    "value": "https://codecourse.com/courses/super-clean-csrf-protection-with-slim-4"
-  },
-  {
-    "title": "379 Validation in Slim 4",
-    "value": "https://codecourse.com/courses/validation-in-slim-4"
-  },
-  {
-    "title": "380 Authentication with Flutter",
-    "value": "https://codecourse.com/courses/authentication-with-flutter"
-  },
-  {
-    "title": "381 Using Tailwind in Vue",
-    "value": "https://codecourse.com/courses/using-tailwind-in-vue"
-  },
-  {
-    "title": "382 Slim 4 Authentication",
-    "value": "https://codecourse.com/courses/slim-4-authentication"
-  },
-  {
-    "title": "383 Laravel Automatic Password Hashing",
-    "value": "https://codecourse.com/courses/laravel-automatic-password-hashing"
-  },
-  {
-    "title": "384 Custom Slim 404 Pages",
-    "value": "https://codecourse.com/courses/custom-slim-404-pages"
-  },
-  {
-    "title": "385 Every PHP Magic Method",
-    "value": "https://codecourse.com/courses/every-php-magic-method"
-  },
-  {
-    "title": "386 Customising The Slim 4 Request Object",
-    "value": "https://codecourse.com/courses/customising-the-slim-4-request-object"
-  },
-  {
-    "title": "387 Using Whoops with Slim 4",
-    "value": "https://codecourse.com/courses/using-whoops-with-slim-4"
-  },
-  {
-    "title": "388 Laravel Database History Tracking",
-    "value": "https://codecourse.com/courses/laravel-database-history-tracking"
-  },
-  {
-    "title": "389 All About Exceptions",
-    "value": "https://codecourse.com/courses/all-about-php-exceptions"
-  },
-  {
-    "title": "390 Laravel Password History Validation",
-    "value": "https://codecourse.com/courses/laravel-password-history-validation"
-  },
-  {
-    "title": "392 Slim Authorization",
-    "value": "https://codecourse.com/courses/slim-authorization"
-  },
-  {
-    "title": "394 Build a PHP Validator From Scratch",
-    "value": "https://codecourse.com/courses/build-a-php-validator-from-scratch"
-  },
-  {
-    "title": "395 How middleware works",
-    "value": "https://codecourse.com/courses/how-middleware-works"
-  },
-  {
-    "title": "396 Autosizing Textarea with Vue",
-    "value": "https://codecourse.com/courses/autosizing-textarea-with-vue"
-  },
-  {
-    "title": "397 Build a Referral System in Laravel",
-    "value": "https://codecourse.com/courses/build-a-referral-system-in-laravel"
-  },
-  {
-    "title": "398 Slim 4 Events and Listeners",
-    "value": "https://codecourse.com/courses/slim-4-events-and-listeners"
-  },
-  {
-    "title": "399 Laravel Sanctum (Airlock) with Nuxt",
-    "value": "https://codecourse.com/courses/laravel-airlock-with-nuxt"
-  },
-  {
-    "title": "400 Laravel Sanctum (Airlock) with Vue",
-    "value": "https://codecourse.com/courses/laravel-airlock-with-vue"
-  },
-  {
-    "title": "401 API Token Authentication with Laravel Sanctum (Airlock)",
-    "value": "https://codecourse.com/courses/api-token-authentication-with-laravel-sanctum-airlock"
-  },
-  {
-    "title": "402 Build a Twitter Clone",
-    "value": "https://codecourse.com/courses/build-a-twitter-clone"
-  },
-  {
-    "title": "403 Getting started with Laravel Livewire",
-    "value": "https://codecourse.com/courses/getting-started-with-laravel-livewire"
-  },
-  {
-    "title": "404 New in Vue 3",
-    "value": "https://codecourse.com/courses/new-in-vue-3"
-  },
-  {
-    "title": "405 The Vue 3 Composition API",
-    "value": "https://codecourse.com/courses/the-vue-3-composition-api"
-  },
-  {
-    "title": "406 Laravel Sanctum (Airlock) with Postman",
-    "value": "https://codecourse.com/courses/laravel-sanctum-airlock-with-postman"
-  },
-  {
-    "title": "408 Build an RSS reader with Alpine.js",
-    "value": "https://codecourse.com/courses/build-an-rss-reader-with-alpine-js"
-  },
-  {
-    "title": "409 Alpine.js State Management with Spruce",
-    "value": "https://codecourse.com/courses/alpine-js-state-management-with-spruce"
-  },
-  {
-    "title": "410 Build a Vue Dropdown Menu",
-    "value": "https://codecourse.com/courses/build-a-vue-dropdown-menu"
-  },
-  {
-    "title": "411 The Nuxt fetch method",
-    "value": "https://codecourse.com/courses/the-nuxt-fetch-method"
-  },
-  {
-    "title": "412 Infinite Scroll with Vue",
-    "value": "https://codecourse.com/courses/infinite-scroll-with-vue"
-  },
-  {
-    "title": "413 Build a Multi-room Realtime Chat with Livewire",
-    "value": "https://codecourse.com/courses/build-a-multi-room-realtime-chat-with-livewire"
-  },
-  {
-    "title": "414 Realtime Private Messages with Laravel Livewire",
-    "value": "https://codecourse.com/courses/realtime-private-messages-with-laravel-livewire"
-  },
-  {
-    "title": "415 Array Destructuring in PHP",
-    "value": "https://codecourse.com/courses/array-destructuring-in-php"
-  },
-  {
-    "title": "416 Full Text Search with TNTSearch in Slim 4",
-    "value": "https://codecourse.com/courses/full-text-search-with-tntsearch-in-slim-4"
-  },
-  {
-    "title": "417 PHP Arrow Functions",
-    "value": "https://codecourse.com/courses/php-arrow-functions"
-  },
-  {
-    "title": "418 New in PHP 7.4",
-    "value": "https://codecourse.com/courses/new-in-php-7-4"
-  },
-  {
-    "title": "419 Instantsearch with TNTSearch and Alpine.js",
-    "value": "https://codecourse.com/courses/instantsearch-with-tntsearch-and-alpine-js"
-  },
-  {
-    "title": "420 Crop and Upload Avatars with Laravel Livewire",
-    "value": "https://codecourse.com/courses/crop-and-upload-avatars-with-laravel-livewire"
-  },
-  {
-    "title": "421 Laravel Subscriptions",
-    "value": "https://codecourse.com/courses/laravel-subscriptions-platform"
-  },
-  {
-    "title": "422 Structuring a Slim 4 Project",
-    "value": "https://codecourse.com/courses/structuring-a-slim-4-project"
-  },
-  {
-    "title": "423 Build a self-destructing message app",
-    "value": "https://codecourse.com/courses/build-a-self-destructing-message-app"
-  },
-  {
-    "title": "424 Up and running with Laravel Websockets",
-    "value": "https://codecourse.com/courses/up-and-running-with-laravel-websockets"
-  },
-  {
-    "title": "425 Laravel Websockets on Forge",
-    "value": "https://codecourse.com/courses/laravel-websockets-on-forge"
-  },
-  {
-    "title": "426 Laravel Basics",
-    "value": "https://codecourse.com/courses/laravel-basics"
-  },
-  {
-    "title": "427 Laravel Basics: Create a Post app",
-    "value": "https://codecourse.com/courses/laravel-basics-create-a-post-app"
-  },
-  {
-    "title": "428 Quick and Easy Livewire Datatables",
-    "value": "https://codecourse.com/courses/quick-and-easy-livewire-datatables"
-  },
-  {
-    "title": "429 New in PHP 8",
-    "value": "https://codecourse.com/courses/new-in-php-8"
-  },
-  {
-    "title": "430 Laravel authentication",
-    "value": "https://codecourse.com/courses/laravel-authentication"
-  },
-  {
-    "title": "431 Laravel Websockets with Vue",
-    "value": "https://codecourse.com/courses/laravel-websockets-with-vue"
-  },
-  {
-    "title": "432 Laravel Jetstream",
-    "value": "https://codecourse.com/courses/laravel-jetstream"
-  },
-  {
-    "title": "433 Simple Custom Laravel Logging",
-    "value": "https://codecourse.com/courses/simple-custom-laravel-logging"
-  },
-  {
-    "title": "434 Livewire Multistep Forms",
-    "value": "https://codecourse.com/courses/livewire-multistep-forms"
-  },
-  {
-    "title": "435 Build a Mini Dropbox Clone with Laravel Jetstream",
-    "value": "https://codecourse.com/courses/create-a-mini-dropbox-clone-with-laravel-jetstream"
-  },
-  {
-    "title": "436 Laravel Homestead",
-    "value": "https://codecourse.com/courses/laravel-homestead"
-  },
-  {
-    "title": "437 Laravel Jetstream Teams",
-    "value": "https://codecourse.com/courses/laravel-jetstream-teams"
-  },
-  {
-    "title": "438 Build a Job Board with Laravel, GraphQL, Nuxt and Apollo",
-    "value": "https://codecourse.com/courses/build-a-job-board-with-laravel-graphql-nuxt-and-apollo"
-  },
-  {
-    "title": "439 Authentication with Laravel Fortify",
-    "value": "https://codecourse.com/courses/authentication-with-laravel-fortify"
-  },
-  {
-    "title": "440 Using Blade Components for Page Titles",
-    "value": "https://codecourse.com/courses/using-blade-components-for-page-titles"
-  },
-  {
-    "title": "441 Flutter Authentication with Laravel Sanctum",
-    "value": "https://codecourse.com/courses/flutter-authentication-with-laravel-sanctum"
-  },
-  {
-    "title": "442 Build a Snackbar with Vue",
-    "value": "https://codecourse.com/courses/build-a-snackbar-with-vue"
-  },
-  {
-    "title": "443 Build a File Sharing SaaS App",
-    "value": "https://codecourse.com/courses/build-a-file-sharing-saas-app"
-  },
-  {
-    "title": "444 The Liker Project 3.0",
-    "value": "https://codecourse.com/courses/the-liker-project-3-0"
-  },
-  {
-    "title": "445 Gradient Headers with Tailwind",
-    "value": "https://codecourse.com/courses/gradient-headers-with-tailwind"
-  },
-  {
-    "title": "446 Who Paid 99¢ Clone with Slim",
-    "value": "https://codecourse.com/courses/who-paid-99cent-clone-with-slim"
-  },
-  {
-    "title": "447 Building Tailwind with PostCSS",
-    "value": "https://codecourse.com/courses/building-tailwind-with-postcss"
-  },
-  {
-    "title": "448 Nuxt Authentication with Laravel Sanctum",
-    "value": "https://codecourse.com/courses/nuxt-authentication-with-laravel-sanctum"
-  },
-  {
-    "title": "449 Laravel Breeze",
-    "value": "https://codecourse.com/courses/laravel-breeze"
-  },
-  {
-    "title": "450 Custom Laravel Jetstream Routes",
-    "value": "https://codecourse.com/courses/custom-laravel-jetstream-routes"
-  },
-  {
-    "title": "451 Custom Laravel Fortify Routes",
-    "value": "https://codecourse.com/courses/custom-laravel-fortify-routes"
-  },
-  {
-    "title": "452 Vue Middleware Pipelines",
-    "value": "https://codecourse.com/courses/create-vue-middleware-pipelines"
-  },
-  {
-    "title": "453 Switching Exposed User IDs in Laravel Fortify Email Verification",
-    "value": "https://codecourse.com/courses/switching-exposed-user-ids-in-laravel-fortify-email-verification"
-  },
-  {
-    "title": "454 Switching Exposed Team IDs in Laravel Jetstream",
-    "value": "https://codecourse.com/courses/switching-exposed-team-ids-in-laravel-jetstream"
-  },
-  {
-    "title": "455 Laravel Websockets with Nuxt",
-    "value": "https://codecourse.com/courses/laravel-websockets-with-nuxt"
-  },
-  {
-    "title": "456 Preventing Duplicate Form Submits in Laravel",
-    "value": "https://codecourse.com/courses/preventing-duplicate-form-submits-in-laravel"
-  },
-  {
-    "title": "457 Polling Batched Jobs Progress with Livewire",
-    "value": "https://codecourse.com/courses/polling-batched-jobs-progress-with-livewire"
-  },
-  {
-    "title": "458 Alpine.js Auto Textarea Height",
-    "value": "https://codecourse.com/courses/alpine.js-auto-textarea-height"
-  },
-  {
-    "title": "459 Build A Digital E-Commerce Store with Stripe Checkout",
-    "value": "https://codecourse.com/courses/build-a-digital-e-commerce-store-with-stripe-checkout"
-  },
-  {
-    "title": "460 Laravel Fortify with Nuxt",
-    "value": "https://codecourse.com/courses/laravel-fortify-with-nuxt"
-  },
-  {
-    "title": "461 Livewire Infinite Scroll",
-    "value": "https://codecourse.com/courses/livewire-infinite-scroll"
-  },
-  {
-    "title": "462 Create a Realtime Post Timeline with Nuxt and Laravel",
-    "value": "https://codecourse.com/courses/create-a-realtime-post-timeline-with-nuxt-and-laravel"
-  },
-  {
-    "title": "463 Global Modals with Livewire and Alpine.js",
-    "value": "https://codecourse.com/courses/global-modals-with-livewire"
-  },
-  {
-    "title": "464 Build a Comment System with Livewire",
-    "value": "https://codecourse.com/courses/build-a-comment-system-with-livewire"
-  },
-  {
-    "title": "465 Searching with Laravel Scout and Meilisearch",
-    "value": "https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch"
-  },
-  {
-    "title": "466 Meilisearch Instant Search with Alpine.js",
-    "value": "https://codecourse.com/courses/meilisearch-instant-search-with-alpine-js"
-  },
-  {
-    "title": "467 Build a Booking System with Livewire",
-    "value": "https://codecourse.com/courses/build-a-booking-system-with-livewire"
-  },
-  {
-    "title": "468 Laravel Multi-tenancy Basics",
-    "value": "https://codecourse.com/courses/laravel-multi-tenancy-basics"
-  },
-  {
-    "title": "469 Reusable reCAPTCHA with Laravel and Alpine.js",
-    "value": "https://codecourse.com/courses/reusable-recaptcha-with-laravel-and-alpine-js"
-  },
-  {
-    "title": "470 Build a Quote Collector App in Laravel and Vue (with Vite)",
-    "value": "https://codecourse.com/courses/build-a-quote-collector-app-in-laravel-and-vue-with-vite"
-  },
-  {
-    "title": "471 Laravel Model Popularity",
-    "value": "https://codecourse.com/courses/laravel-model-popularity"
-  },
-  {
-    "title": "472 Build a Blog with Laravel and Vue",
-    "value": "https://codecourse.com/courses/build-a-blog-with-laravel-and-vue"
-  },
-  {
-    "title": "473 Build a Laravel Invite System",
-    "value": "https://codecourse.com/courses/build-a-laravel-invite-system"
-  },
-  {
-    "title": "474 Learn Alpine.js",
-    "value": "https://codecourse.com/courses/learn-alpine-js"
-  },
-  {
-    "title": "475 Vue Script Setup for Single File Components",
-    "value": "https://codecourse.com/courses/vue-script-setup-for-single-file-components"
-  },
-  {
-    "title": "476 Laravel Sanctum Authentication with the Vue Composition API",
-    "value": "https://codecourse.com/courses/laravel-sanctum-authentication-with-the-vue-composition-api"
-  },
-  {
-    "title": "477 Alpine Store Basics",
-    "value": "https://codecourse.com/courses/alpine-store-basics"
-  },
-  {
-    "title": "478 Build a Notes App with Alpine.js",
-    "value": "https://codecourse.com/courses/build-a-notes-app-with-alpine-js"
-  },
-  {
-    "title": "479 Getting Started with Nuxt 3",
-    "value": "https://codecourse.com/courses/getting-started-with-nuxt-3"
-  },
-  {
-    "title": "480 Livewire Performance",
-    "value": "https://codecourse.com/courses/livewire-performance"
-  },
-  {
-    "title": "481 Quick and Easy Nested Categories in Laravel",
-    "value": "https://codecourse.com/courses/quick-and-easy-nested-categories-in-laravel"
-  },
-  {
-    "title": "482 Laravel Aggregates",
-    "value": "https://codecourse.com/courses/laravel-aggregates"
-  },
-  {
-    "title": "483 Laravel Cursor Pagination",
-    "value": "https://codecourse.com/courses/laravel-cursor-pagination"
-  },
-  {
-    "title": "484 Build an E-Commerce Platform",
-    "value": "https://codecourse.com/courses/build-an-ecommerce-platform"
+    "title": "486 Build a Friend System in Laravel",
+    "value": "https://codecourse.com/courses/build-a-friend-system-in-laravel"
   },
   {
     "title": "485 Up And Running with Pest",
     "value": "https://codecourse.com/courses/up-and-running-with-pest"
   },
   {
-    "title": "486 Build a Friend System in Laravel",
-    "value": "https://codecourse.com/courses/build-a-friend-system-in-laravel"
+    "title": "484 Build an E-Commerce Platform",
+    "value": "https://codecourse.com/courses/build-an-ecommerce-platform"
+  },
+  {
+    "title": "483 Laravel Cursor Pagination",
+    "value": "https://codecourse.com/courses/laravel-cursor-pagination"
+  },
+  {
+    "title": "482 Laravel Aggregates",
+    "value": "https://codecourse.com/courses/laravel-aggregates"
+  },
+  {
+    "title": "481 Quick and Easy Nested Categories in Laravel",
+    "value": "https://codecourse.com/courses/quick-and-easy-nested-categories-in-laravel"
+  },
+  {
+    "title": "480 Livewire Performance",
+    "value": "https://codecourse.com/courses/livewire-performance"
+  },
+  {
+    "title": "479 Getting Started with Nuxt 3",
+    "value": "https://codecourse.com/courses/getting-started-with-nuxt-3"
+  },
+  {
+    "title": "478 Build a Notes App with Alpine.js",
+    "value": "https://codecourse.com/courses/build-a-notes-app-with-alpine-js"
+  },
+  {
+    "title": "477 Alpine Store Basics",
+    "value": "https://codecourse.com/courses/alpine-store-basics"
+  },
+  {
+    "title": "476 Laravel Sanctum Authentication with the Vue Composition API",
+    "value": "https://codecourse.com/courses/laravel-sanctum-authentication-with-the-vue-composition-api"
+  },
+  {
+    "title": "475 Vue Script Setup for Single File Components",
+    "value": "https://codecourse.com/courses/vue-script-setup-for-single-file-components"
+  },
+  {
+    "title": "474 Learn Alpine.js",
+    "value": "https://codecourse.com/courses/learn-alpine-js"
+  },
+  {
+    "title": "473 Build a Laravel Invite System",
+    "value": "https://codecourse.com/courses/build-a-laravel-invite-system"
+  },
+  {
+    "title": "472 Build a Blog with Laravel and Vue",
+    "value": "https://codecourse.com/courses/build-a-blog-with-laravel-and-vue"
+  },
+  {
+    "title": "471 Laravel Model Popularity",
+    "value": "https://codecourse.com/courses/laravel-model-popularity"
+  },
+  {
+    "title": "470 Build a Quote Collector App in Laravel and Vue (with Vite)",
+    "value": "https://codecourse.com/courses/build-a-quote-collector-app-in-laravel-and-vue-with-vite"
+  },
+  {
+    "title": "469 Reusable reCAPTCHA with Laravel and Alpine.js",
+    "value": "https://codecourse.com/courses/reusable-recaptcha-with-laravel-and-alpine-js"
+  },
+  {
+    "title": "468 Laravel Multi-tenancy Basics",
+    "value": "https://codecourse.com/courses/laravel-multi-tenancy-basics"
+  },
+  {
+    "title": "467 Build a Booking System with Livewire",
+    "value": "https://codecourse.com/courses/build-a-booking-system-with-livewire"
+  },
+  {
+    "title": "466 Meilisearch Instant Search with Alpine.js",
+    "value": "https://codecourse.com/courses/meilisearch-instant-search-with-alpine-js"
+  },
+  {
+    "title": "465 Searching with Laravel Scout and Meilisearch",
+    "value": "https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch"
+  },
+  {
+    "title": "464 Build a Comment System with Livewire",
+    "value": "https://codecourse.com/courses/build-a-comment-system-with-livewire"
+  },
+  {
+    "title": "463 Global Modals with Livewire and Alpine.js",
+    "value": "https://codecourse.com/courses/global-modals-with-livewire"
+  },
+  {
+    "title": "462 Create a Realtime Post Timeline with Nuxt and Laravel",
+    "value": "https://codecourse.com/courses/create-a-realtime-post-timeline-with-nuxt-and-laravel"
+  },
+  {
+    "title": "461 Livewire Infinite Scroll",
+    "value": "https://codecourse.com/courses/livewire-infinite-scroll"
+  },
+  {
+    "title": "460 Laravel Fortify with Nuxt",
+    "value": "https://codecourse.com/courses/laravel-fortify-with-nuxt"
+  },
+  {
+    "title": "459 Build A Digital E-Commerce Store with Stripe Checkout",
+    "value": "https://codecourse.com/courses/build-a-digital-e-commerce-store-with-stripe-checkout"
+  },
+  {
+    "title": "458 Alpine.js Auto Textarea Height",
+    "value": "https://codecourse.com/courses/alpine.js-auto-textarea-height"
+  },
+  {
+    "title": "457 Polling Batched Jobs Progress with Livewire",
+    "value": "https://codecourse.com/courses/polling-batched-jobs-progress-with-livewire"
+  },
+  {
+    "title": "456 Preventing Duplicate Form Submits in Laravel",
+    "value": "https://codecourse.com/courses/preventing-duplicate-form-submits-in-laravel"
+  },
+  {
+    "title": "455 Laravel Websockets with Nuxt",
+    "value": "https://codecourse.com/courses/laravel-websockets-with-nuxt"
+  },
+  {
+    "title": "454 Switching Exposed Team IDs in Laravel Jetstream",
+    "value": "https://codecourse.com/courses/switching-exposed-team-ids-in-laravel-jetstream"
+  },
+  {
+    "title": "453 Switching Exposed User IDs in Laravel Fortify Email Verification",
+    "value": "https://codecourse.com/courses/switching-exposed-user-ids-in-laravel-fortify-email-verification"
+  },
+  {
+    "title": "452 Vue Middleware Pipelines",
+    "value": "https://codecourse.com/courses/create-vue-middleware-pipelines"
+  },
+  {
+    "title": "451 Custom Laravel Fortify Routes",
+    "value": "https://codecourse.com/courses/custom-laravel-fortify-routes"
+  },
+  {
+    "title": "450 Custom Laravel Jetstream Routes",
+    "value": "https://codecourse.com/courses/custom-laravel-jetstream-routes"
+  },
+  {
+    "title": "449 Laravel Breeze",
+    "value": "https://codecourse.com/courses/laravel-breeze"
+  },
+  {
+    "title": "448 Nuxt Authentication with Laravel Sanctum",
+    "value": "https://codecourse.com/courses/nuxt-authentication-with-laravel-sanctum"
+  },
+  {
+    "title": "447 Building Tailwind with PostCSS",
+    "value": "https://codecourse.com/courses/building-tailwind-with-postcss"
+  },
+  {
+    "title": "446 Who Paid 99¢ Clone with Slim",
+    "value": "https://codecourse.com/courses/who-paid-99cent-clone-with-slim"
+  },
+  {
+    "title": "445 Gradient Headers with Tailwind",
+    "value": "https://codecourse.com/courses/gradient-headers-with-tailwind"
+  },
+  {
+    "title": "444 The Liker Project 3.0",
+    "value": "https://codecourse.com/courses/the-liker-project-3-0"
+  },
+  {
+    "title": "443 Build a File Sharing SaaS App",
+    "value": "https://codecourse.com/courses/build-a-file-sharing-saas-app"
+  },
+  {
+    "title": "442 Build a Snackbar with Vue",
+    "value": "https://codecourse.com/courses/build-a-snackbar-with-vue"
+  },
+  {
+    "title": "441 Flutter Authentication with Laravel Sanctum",
+    "value": "https://codecourse.com/courses/flutter-authentication-with-laravel-sanctum"
+  },
+  {
+    "title": "440 Using Blade Components for Page Titles",
+    "value": "https://codecourse.com/courses/using-blade-components-for-page-titles"
+  },
+  {
+    "title": "439 Authentication with Laravel Fortify",
+    "value": "https://codecourse.com/courses/authentication-with-laravel-fortify"
+  },
+  {
+    "title": "438 Build a Job Board with Laravel, GraphQL, Nuxt and Apollo",
+    "value": "https://codecourse.com/courses/build-a-job-board-with-laravel-graphql-nuxt-and-apollo"
+  },
+  {
+    "title": "437 Laravel Jetstream Teams",
+    "value": "https://codecourse.com/courses/laravel-jetstream-teams"
+  },
+  {
+    "title": "436 Laravel Homestead",
+    "value": "https://codecourse.com/courses/laravel-homestead"
+  },
+  {
+    "title": "435 Build a Mini Dropbox Clone with Laravel Jetstream",
+    "value": "https://codecourse.com/courses/create-a-mini-dropbox-clone-with-laravel-jetstream"
+  },
+  {
+    "title": "434 Livewire Multistep Forms",
+    "value": "https://codecourse.com/courses/livewire-multistep-forms"
+  },
+  {
+    "title": "433 Simple Custom Laravel Logging",
+    "value": "https://codecourse.com/courses/simple-custom-laravel-logging"
+  },
+  {
+    "title": "432 Laravel Jetstream",
+    "value": "https://codecourse.com/courses/laravel-jetstream"
+  },
+  {
+    "title": "431 Laravel Websockets with Vue",
+    "value": "https://codecourse.com/courses/laravel-websockets-with-vue"
+  },
+  {
+    "title": "430 Laravel authentication",
+    "value": "https://codecourse.com/courses/laravel-authentication"
+  },
+  {
+    "title": "429 New in PHP 8",
+    "value": "https://codecourse.com/courses/new-in-php-8"
+  },
+  {
+    "title": "428 Quick and Easy Livewire Datatables",
+    "value": "https://codecourse.com/courses/quick-and-easy-livewire-datatables"
+  },
+  {
+    "title": "427 Laravel Basics: Create a Post app",
+    "value": "https://codecourse.com/courses/laravel-basics-create-a-post-app"
+  },
+  {
+    "title": "426 Laravel Basics",
+    "value": "https://codecourse.com/courses/laravel-basics"
+  },
+  {
+    "title": "425 Laravel Websockets on Forge",
+    "value": "https://codecourse.com/courses/laravel-websockets-on-forge"
+  },
+  {
+    "title": "424 Up and running with Laravel Websockets",
+    "value": "https://codecourse.com/courses/up-and-running-with-laravel-websockets"
+  },
+  {
+    "title": "423 Build a self-destructing message app",
+    "value": "https://codecourse.com/courses/build-a-self-destructing-message-app"
+  },
+  {
+    "title": "422 Structuring a Slim 4 Project",
+    "value": "https://codecourse.com/courses/structuring-a-slim-4-project"
+  },
+  {
+    "title": "421 Laravel Subscriptions",
+    "value": "https://codecourse.com/courses/laravel-subscriptions-platform"
+  },
+  {
+    "title": "420 Crop and Upload Avatars with Laravel Livewire",
+    "value": "https://codecourse.com/courses/crop-and-upload-avatars-with-laravel-livewire"
+  },
+  {
+    "title": "419 Instantsearch with TNTSearch and Alpine.js",
+    "value": "https://codecourse.com/courses/instantsearch-with-tntsearch-and-alpine-js"
+  },
+  {
+    "title": "418 New in PHP 7.4",
+    "value": "https://codecourse.com/courses/new-in-php-7-4"
+  },
+  {
+    "title": "417 PHP Arrow Functions",
+    "value": "https://codecourse.com/courses/php-arrow-functions"
+  },
+  {
+    "title": "416 Full Text Search with TNTSearch in Slim 4",
+    "value": "https://codecourse.com/courses/full-text-search-with-tntsearch-in-slim-4"
+  },
+  {
+    "title": "415 Array Destructuring in PHP",
+    "value": "https://codecourse.com/courses/array-destructuring-in-php"
+  },
+  {
+    "title": "414 Realtime Private Messages with Laravel Livewire",
+    "value": "https://codecourse.com/courses/realtime-private-messages-with-laravel-livewire"
+  },
+  {
+    "title": "413 Build a Multi-room Realtime Chat with Livewire",
+    "value": "https://codecourse.com/courses/build-a-multi-room-realtime-chat-with-livewire"
+  },
+  {
+    "title": "412 Infinite Scroll with Vue",
+    "value": "https://codecourse.com/courses/infinite-scroll-with-vue"
+  },
+  {
+    "title": "411 The Nuxt fetch method",
+    "value": "https://codecourse.com/courses/the-nuxt-fetch-method"
+  },
+  {
+    "title": "410 Build a Vue Dropdown Menu",
+    "value": "https://codecourse.com/courses/build-a-vue-dropdown-menu"
+  },
+  {
+    "title": "409 Alpine.js State Management with Spruce",
+    "value": "https://codecourse.com/courses/alpine-js-state-management-with-spruce"
+  },
+  {
+    "title": "408 Build an RSS reader with Alpine.js",
+    "value": "https://codecourse.com/courses/build-an-rss-reader-with-alpine-js"
+  },
+  {
+    "title": "406 Laravel Sanctum (Airlock) with Postman",
+    "value": "https://codecourse.com/courses/laravel-sanctum-airlock-with-postman"
+  },
+  {
+    "title": "405 The Vue 3 Composition API",
+    "value": "https://codecourse.com/courses/the-vue-3-composition-api"
+  },
+  {
+    "title": "404 New in Vue 3",
+    "value": "https://codecourse.com/courses/new-in-vue-3"
+  },
+  {
+    "title": "403 Getting started with Laravel Livewire",
+    "value": "https://codecourse.com/courses/getting-started-with-laravel-livewire"
+  },
+  {
+    "title": "402 Build a Twitter Clone",
+    "value": "https://codecourse.com/courses/build-a-twitter-clone"
+  },
+  {
+    "title": "401 API Token Authentication with Laravel Sanctum (Airlock)",
+    "value": "https://codecourse.com/courses/api-token-authentication-with-laravel-sanctum-airlock"
+  },
+  {
+    "title": "400 Laravel Sanctum (Airlock) with Vue",
+    "value": "https://codecourse.com/courses/laravel-airlock-with-vue"
+  },
+  {
+    "title": "399 Laravel Sanctum (Airlock) with Nuxt",
+    "value": "https://codecourse.com/courses/laravel-airlock-with-nuxt"
+  },
+  {
+    "title": "398 Slim 4 Events and Listeners",
+    "value": "https://codecourse.com/courses/slim-4-events-and-listeners"
+  },
+  {
+    "title": "397 Build a Referral System in Laravel",
+    "value": "https://codecourse.com/courses/build-a-referral-system-in-laravel"
+  },
+  {
+    "title": "396 Autosizing Textarea with Vue",
+    "value": "https://codecourse.com/courses/autosizing-textarea-with-vue"
+  },
+  {
+    "title": "395 How middleware works",
+    "value": "https://codecourse.com/courses/how-middleware-works"
+  },
+  {
+    "title": "394 Build a PHP Validator From Scratch",
+    "value": "https://codecourse.com/courses/build-a-php-validator-from-scratch"
+  },
+  {
+    "title": "392 Slim Authorization",
+    "value": "https://codecourse.com/courses/slim-authorization"
+  },
+  {
+    "title": "390 Laravel Password History Validation",
+    "value": "https://codecourse.com/courses/laravel-password-history-validation"
+  },
+  {
+    "title": "389 All About Exceptions",
+    "value": "https://codecourse.com/courses/all-about-php-exceptions"
+  },
+  {
+    "title": "388 Laravel Database History Tracking",
+    "value": "https://codecourse.com/courses/laravel-database-history-tracking"
+  },
+  {
+    "title": "387 Using Whoops with Slim 4",
+    "value": "https://codecourse.com/courses/using-whoops-with-slim-4"
+  },
+  {
+    "title": "386 Customising The Slim 4 Request Object",
+    "value": "https://codecourse.com/courses/customising-the-slim-4-request-object"
+  },
+  {
+    "title": "385 Every PHP Magic Method",
+    "value": "https://codecourse.com/courses/every-php-magic-method"
+  },
+  {
+    "title": "384 Custom Slim 404 Pages",
+    "value": "https://codecourse.com/courses/custom-slim-404-pages"
+  },
+  {
+    "title": "383 Laravel Automatic Password Hashing",
+    "value": "https://codecourse.com/courses/laravel-automatic-password-hashing"
+  },
+  {
+    "title": "382 Slim 4 Authentication",
+    "value": "https://codecourse.com/courses/slim-4-authentication"
+  },
+  {
+    "title": "381 Using Tailwind in Vue",
+    "value": "https://codecourse.com/courses/using-tailwind-in-vue"
+  },
+  {
+    "title": "380 Authentication with Flutter",
+    "value": "https://codecourse.com/courses/authentication-with-flutter"
+  },
+  {
+    "title": "379 Validation in Slim 4",
+    "value": "https://codecourse.com/courses/validation-in-slim-4"
+  },
+  {
+    "title": "378 Super Clean CSRF Protection with Slim 4",
+    "value": "https://codecourse.com/courses/super-clean-csrf-protection-with-slim-4"
+  },
+  {
+    "title": "377 Laravel Custom Validation Strategies",
+    "value": "https://codecourse.com/courses/laravel-custom-validation-strategies"
+  },
+  {
+    "title": "376 Vue Multiple File Drag & Drop Uploader",
+    "value": "https://codecourse.com/courses/vue-multiple-file-drag-and-drop-uploader"
+  },
+  {
+    "title": "375 Build a code snippet website",
+    "value": "https://codecourse.com/courses/build-a-code-snippet-website-with-me"
+  },
+  {
+    "title": "374 Laravel View Presenters",
+    "value": "https://codecourse.com/courses/laravel-view-presenters"
+  },
+  {
+    "title": "373 Vue Two-Factor Authentication",
+    "value": "https://codecourse.com/courses/vue-two-factor-authentication"
+  },
+  {
+    "title": "372 Cleanly Setting Axios Base URL",
+    "value": "https://codecourse.com/courses/cleanly-setting-axios-base-url"
+  },
+  {
+    "title": "371 Vue Authentication",
+    "value": "https://codecourse.com/courses/vue-authentication"
+  },
+  {
+    "title": "370 Flexible Database Ordering with Laravel",
+    "value": "https://codecourse.com/courses/flexible-database-ordering-with-laravel"
+  },
+  {
+    "title": "369 Build a notes app with Flutter",
+    "value": "https://codecourse.com/courses/build-a-notes-app-with-flutter"
+  },
+  {
+    "title": "368 Flutter State Management with Provider",
+    "value": "https://codecourse.com/courses/flutter-state-management-with-provider"
+  },
+  {
+    "title": "367 Vue InstantSearch in Nuxt",
+    "value": "https://codecourse.com/courses/vue-instantsearch-in-nuxt"
+  },
+  {
+    "title": "366 Setting up Doctrine in Slim 4",
+    "value": "https://codecourse.com/courses/setting-up-doctrine-in-slim-4"
+  },
+  {
+    "title": "365 League Container with Slim 4",
+    "value": "https://codecourse.com/courses/league-container-with-slim-4"
+  },
+  {
+    "title": "364 Build a Devspiration app",
+    "value": "https://codecourse.com/courses/build-a-devspiration-app"
+  },
+  {
+    "title": "363 API Requests with Flutter",
+    "value": "https://codecourse.com/courses/api-requests-with-flutter"
+  },
+  {
+    "title": "362 Build a shopping list with Flutter",
+    "value": "https://codecourse.com/courses/build-a-shopping-list-with-flutter"
+  },
+  {
+    "title": "361 Your first Flutter app",
+    "value": "https://codecourse.com/courses/your-first-flutter-app"
+  },
+  {
+    "title": "360 Setting up Flutter",
+    "value": "https://codecourse.com/courses/setting-up-flutter"
+  },
+  {
+    "title": "359 Views with Slim 4",
+    "value": "https://codecourse.com/courses/views-with-slim-4"
+  },
+  {
+    "title": "358 Vue Roles and Permissions",
+    "value": "https://codecourse.com/courses/vue-roles-and-permissions"
+  },
+  {
+    "title": "357 Deploying Nuxt",
+    "value": "https://codecourse.com/courses/deploying-nuxt"
+  },
+  {
+    "title": "356 Learn Dart",
+    "value": "https://codecourse.com/courses/learn-dart"
+  },
+  {
+    "title": "355 Learn Slim 4",
+    "value": "https://codecourse.com/courses/learn-slim-4"
+  },
+  {
+    "title": "354 Tailwind with Nuxt.js",
+    "value": "https://codecourse.com/courses/tailwind-with-nuxt-js"
+  },
+  {
+    "title": "353 Laravel Teams",
+    "value": "https://codecourse.com/courses/laravel-teams"
+  },
+  {
+    "title": "352 The Liker Project 2.0",
+    "value": "https://codecourse.com/courses/the-liker-project-2.0"
+  },
+  {
+    "title": "351 Multistep forms with Laravel",
+    "value": "https://codecourse.com/courses/multistep-forms-with-laravel"
+  },
+  {
+    "title": "350 Custom Laravel Collections",
+    "value": "https://codecourse.com/courses/custom-laravel-collections"
+  },
+  {
+    "title": "349 Super Fast Data Nesting",
+    "value": "https://codecourse.com/courses/super-fast-data-nesting"
+  },
+  {
+    "title": "348 Vue.js + Firebase Authentication",
+    "value": "https://codecourse.com/courses/vue-js-firebase-authentication"
+  },
+  {
+    "title": "347 Inline Vue Validation in Under 10 Minutes",
+    "value": "https://codecourse.com/courses/inline-vue-validation-in-under-10-minutes"
+  },
+  {
+    "title": "346 Create a Laravel Scout Elasticsearch Driver",
+    "value": "https://codecourse.com/courses/create-a-laravel-scout-elasticsearch-driver"
+  },
+  {
+    "title": "345 Grouping Laravel Notifications",
+    "value": "https://codecourse.com/courses/grouping-laravel-notifications"
+  },
+  {
+    "title": "344 Testing Vue",
+    "value": "https://codecourse.com/courses/testing-vue"
+  },
+  {
+    "title": "343 Recreate our auto-hiding sliding navigation",
+    "value": "https://codecourse.com/courses/recreate-our-auto-hiding-sliding-navigation"
+  },
+  {
+    "title": "342 Better Laravel Database Notifications",
+    "value": "https://codecourse.com/courses/better-laravel-database-notifications"
+  },
+  {
+    "title": "341 Dynamic Vue Components",
+    "value": "https://codecourse.com/courses/dynamic-vue-components"
+  },
+  {
+    "title": "340 Infinite Scrolling Search with Vue + Algolia",
+    "value": "https://codecourse.com/courses/infinite-scrolling-search-with-vue-and-algolia"
+  },
+  {
+    "title": "339 Magically invoking Laravel controller methods",
+    "value": "https://codecourse.com/courses/magically-invoking-laravel-controller-methods"
+  },
+  {
+    "title": "338 Using .env files with Nuxt",
+    "value": "https://codecourse.com/courses/using-env-files-with-nuxt"
+  },
+  {
+    "title": "337 New in Laravel 5.7",
+    "value": "https://codecourse.com/courses/new-in-laravel-5-7"
+  },
+  {
+    "title": "336 The Pagination Builder",
+    "value": "https://codecourse.com/courses/the-pagination-builder"
+  },
+  {
+    "title": "334 Automatically generating events and listeners in Laravel",
+    "value": "https://codecourse.com/courses/automatically-generating-events-and-listeners-in-laravel"
+  },
+  {
+    "title": "333 Real-time User Experience Points",
+    "value": "https://codecourse.com/courses/real-time-user-experience-points"
+  },
+  {
+    "title": "332 Using League Container with Slim",
+    "value": "https://codecourse.com/courses/using-league-container-with-slim"
+  },
+  {
+    "title": "329 Laravel Hashids",
+    "value": "https://codecourse.com/courses/laravel-hashids"
+  },
+  {
+    "title": "328 Roll your own Facades",
+    "value": "https://codecourse.com/courses/roll-your-own-facades"
+  },
+  {
+    "title": "327 Refactoring chained where methods in Laravel",
+    "value": "https://codecourse.com/courses/refactoring-chained-where-methods-in-laravel"
+  },
+  {
+    "title": "326 Bootable traits in Laravel",
+    "value": "https://codecourse.com/courses/bootable-traits-in-laravel"
+  },
+  {
+    "title": "325 Build an e-commerce platform",
+    "value": "https://codecourse.com/courses/build-an-e-commerce-platform"
+  },
+  {
+    "title": "324 Vue Stash",
+    "value": "https://codecourse.com/courses/vue-stash"
+  },
+  {
+    "title": "323 DigitalOcean spaces with Laravel",
+    "value": "https://codecourse.com/courses/digital-ocean-spaces-with-laravel"
+  },
+  {
+    "title": "322 JWT Authentication from Scratch",
+    "value": "https://codecourse.com/courses/jwt-authentication-from-scratch"
+  },
+  {
+    "title": "321 Practical Vue Components",
+    "value": "https://codecourse.com/courses/practical-vue-components"
+  },
+  {
+    "title": "320 The optional() helper callback",
+    "value": "https://codecourse.com/courses/the-optional-helper-callback"
+  },
+  {
+    "title": "319 Action-Domain-Responder (ADR) with Laravel",
+    "value": "https://codecourse.com/courses/action-domain-responder-with-laravel"
+  },
+  {
+    "title": "318 Using multiple keys for route model binding",
+    "value": "https://codecourse.com/courses/using-multiple-keys-for-route-model-binding"
+  },
+  {
+    "title": "317 Action-Domain-Responder (ADR) with Slim",
+    "value": "https://codecourse.com/courses/action-domain-responder-adr-with-slim"
+  },
+  {
+    "title": "316 Firing webhooks from your Laravel app",
+    "value": "https://codecourse.com/courses/firing-webhooks-from-your-laravel-app"
+  },
+  {
+    "title": "315 The Laravel tap() function",
+    "value": "https://codecourse.com/courses/the-laravel-tap-function"
+  },
+  {
+    "title": "314 Dynamic breadcrumbs in Laravel",
+    "value": "https://codecourse.com/courses/dynamic-breadcrumbs-in-laravel"
+  },
+  {
+    "title": "313 Reusable Laravel comments",
+    "value": "https://codecourse.com/courses/reusable-laravel-comments"
+  },
+  {
+    "title": "312 Cleanly iterating over JavaScript objects",
+    "value": "https://codecourse.com/courses/cleanly-iterating-over-javascript-objects"
+  },
+  {
+    "title": "310 Making Eloquent models 'LiveAware'",
+    "value": "https://codecourse.com/courses/making-eloquent-models-live-aware"
+  },
+  {
+    "title": "309 Building with Atomic CSS",
+    "value": "https://codecourse.com/courses/building-with-atomic-css"
+  },
+  {
+    "title": "308 Globally registering Vue components",
+    "value": "https://codecourse.com/courses/globally-registering-vue-components"
+  },
+  {
+    "title": "307 Laravel API resources",
+    "value": "https://codecourse.com/courses/laravel-api-resources"
+  },
+  {
+    "title": "306 Anonymous relationships in Laravel",
+    "value": "https://codecourse.com/courses/anonymous-relationships-in-laravel"
+  },
+  {
+    "title": "305 Build an image upload microservice",
+    "value": "https://codecourse.com/courses/build-an-image-upload-microservice"
+  },
+  {
+    "title": "304 Laravel multi-tenancy: Multi database",
+    "value": "https://codecourse.com/courses/laravel-tenancy-multi-database"
+  },
+  {
+    "title": "303 Vue Style Guide",
+    "value": "https://codecourse.com/courses/vue-style-guide"
+  },
+  {
+    "title": "302 Automatically separate user file uploads in Laravel",
+    "value": "https://codecourse.com/courses/automatically-separate-user-file-uploads-in-laravel"
+  },
+  {
+    "title": "301 Nuxt.js + Laravel Authentication",
+    "value": "https://codecourse.com/courses/nuxt-js-laravel-authentication"
+  },
+  {
+    "title": "300 Eloquent translations with Slim 3",
+    "value": "https://codecourse.com/courses/eloquent-translations-with-slim-3"
+  },
+  {
+    "title": "299 Build a forum with AdonisJS",
+    "value": "https://codecourse.com/courses/build-a-forum-with-adonis-js"
+  },
+  {
+    "title": "298 Custom exception handling in Slim 3",
+    "value": "https://codecourse.com/courses/custom-exception-handling-in-slim-3"
+  },
+  {
+    "title": "297 Eloquent Observers in Slim 3",
+    "value": "https://codecourse.com/courses/eloquent-observers-in-slim-3"
+  },
+  {
+    "title": "296 Cleaning up code with dynamic method calling",
+    "value": "https://codecourse.com/courses/cleaning-up-code-with-dynamic-method-calling"
+  },
+  {
+    "title": "295 The \"No Framework\" Framework",
+    "value": "https://codecourse.com/courses/the-no-framework-framework"
+  },
+  {
+    "title": "294 Nuxt.js Quickstart",
+    "value": "https://codecourse.com/courses/nuxt-js-quickstart"
+  },
+  {
+    "title": "293 Laravel Internals: Macroable",
+    "value": "https://codecourse.com/courses/laravel-internals-macroable"
+  },
+  {
+    "title": "292 Build a command-line uptime monitor",
+    "value": "https://codecourse.com/courses/build-a-command-line-uptime-monitor"
+  },
+  {
+    "title": "291 Laravel multi-tenancy: Single database",
+    "value": "https://codecourse.com/courses/laravel-single-database-multi-tenancy"
+  },
+  {
+    "title": "290 Structuring Laravel for larger projects",
+    "value": "https://codecourse.com/courses/snippet-structuring-laravel-for-larger-projects"
+  },
+  {
+    "title": "289 Build a multi-user video chat app",
+    "value": "https://codecourse.com/courses/build-a-multi-user-video-chat-app"
+  },
+  {
+    "title": "288 Learn Vue.js Server-Side Rendering",
+    "value": "https://codecourse.com/courses/learn-vue-js-server-side-rendering"
+  },
+  {
+    "title": "287 Building a Vue project with Webpack",
+    "value": "https://codecourse.com/courses/building-a-vue-project-with-webpack"
+  },
+  {
+    "title": "286 Laravel SaaS Boilerplate",
+    "value": "https://codecourse.com/courses/laravel-saas-boilerplate"
+  },
+  {
+    "title": "285 Get friendly with Webpack",
+    "value": "https://codecourse.com/courses/get-friendly-with-webpack"
+  },
+  {
+    "title": "284 Build a JavaScript breakout game with Phaser",
+    "value": "https://codecourse.com/courses/build-a-javascript-breakout-game-with-phaser"
+  },
+  {
+    "title": "282 Impersonating users in Laravel",
+    "value": "https://codecourse.com/courses/snippet-impersonating-users-in-laravel"
+  },
+  {
+    "title": "281 Create a Telegram reminder app",
+    "value": "https://codecourse.com/courses/create-a-telegram-reminder-app"
+  },
+  {
+    "title": "280 Better Vue pagination",
+    "value": "https://codecourse.com/courses/better-vue-pagination"
+  },
+  {
+    "title": "279 Learn how autowiring works",
+    "value": "https://codecourse.com/courses/learn-how-autowiring-works"
+  },
+  {
+    "title": "278 Roll your own task scheduler",
+    "value": "https://codecourse.com/courses/roll-your-own-task-scheduler"
+  },
+  {
+    "title": "277 Filtering in Laravel: Vue.js",
+    "value": "https://codecourse.com/courses/filtering-in-laravel-vue-js"
+  },
+  {
+    "title": "275 Filtering in Laravel: Blade",
+    "value": "https://codecourse.com/courses/filtering-in-laravel-blade"
+  },
+  {
+    "title": "274 Filtering in Laravel",
+    "value": "https://codecourse.com/courses/filtering-in-laravel"
+  },
+  {
+    "title": "273 Forcing HTTPS assets with Laravel",
+    "value": "https://codecourse.com/courses/snippet-forcing-assets-with-laravel"
+  },
+  {
+    "title": "272 Roll your own event dispatcher",
+    "value": "https://codecourse.com/courses/roll-your-own-event-dispatcher"
+  },
+  {
+    "title": "271 Build your own realtime PHP server",
+    "value": "https://codecourse.com/courses/build-your-own-realtime-php-server"
+  },
+  {
+    "title": "270 Realtime PHP with Ratchet",
+    "value": "https://codecourse.com/courses/realtime-php-with-ratchet"
+  },
+  {
+    "title": "269 Routing with Vue.js",
+    "value": "https://codecourse.com/courses/routing-with-vue-js"
+  },
+  {
+    "title": "268 Laravel DataTables",
+    "value": "https://codecourse.com/courses/laravel-datatables"
+  },
+  {
+    "title": "267 Learn Vue.js by example",
+    "value": "https://codecourse.com/courses/learn-vue-js-by-example"
+  },
+  {
+    "title": "266 Vue.js components",
+    "value": "https://codecourse.com/courses/vue-js-components"
+  },
+  {
+    "title": "265 Learn Vue.js",
+    "value": "https://codecourse.com/courses/learn-vue-js"
+  },
+  {
+    "title": "263 Practical Git",
+    "value": "https://codecourse.com/courses/practical-git"
+  },
+  {
+    "title": "262 The Repository Pattern in Laravel",
+    "value": "https://codecourse.com/courses/the-repository-pattern-in-laravel"
+  },
+  {
+    "title": "261 Vuex validation strategies",
+    "value": "https://codecourse.com/courses/vuex-validation-strategies"
+  },
+  {
+    "title": "260 Clean code Laravel",
+    "value": "https://codecourse.com/courses/clean-code-laravel"
+  },
+  {
+    "title": "259 New in Laravel 5.5",
+    "value": "https://codecourse.com/courses/new-in-laravel-5-5"
+  },
+  {
+    "title": "258 Build a File Marketplace with Laravel",
+    "value": "https://codecourse.com/courses/build-a-file-marketplace"
+  },
+  {
+    "title": "256 Build a Distraction Dashboard",
+    "value": "https://codecourse.com/courses/build-a-distraction-dashboard"
+  },
+  {
+    "title": "255 Separate database for Laravel queues",
+    "value": "https://codecourse.com/courses/separate-database-for-laravel-queues"
+  },
+  {
+    "title": "254 Mailable Classes in Slim 3",
+    "value": "https://codecourse.com/courses/mailable-classes-in-slim-3"
+  },
+  {
+    "title": "253 Profiling JSON responses in Laravel",
+    "value": "https://codecourse.com/courses/profiling-json-responses-in-laravel"
+  },
+  {
+    "title": "252 Laravel Chatroom",
+    "value": "https://codecourse.com/courses/laravel-chatroom"
+  },
+  {
+    "title": "251 Testing Laravel Form Requests",
+    "value": "https://codecourse.com/courses/testing-laravel-form-requests"
+  },
+  {
+    "title": "249 Database migrations with Slim",
+    "value": "https://codecourse.com/courses/database-migrations-with-slim"
+  },
+  {
+    "title": "248 End-to-end Browser Testing with Laravel Dusk",
+    "value": "https://codecourse.com/courses/end-to-end-browser-testing-with-laravel-dusk"
+  },
+  {
+    "title": "247 Learn Vuex",
+    "value": "https://codecourse.com/courses/learn-vuex"
+  },
+  {
+    "title": "246 Slim API rate limiting middleware from scratch",
+    "value": "https://codecourse.com/courses/slim-api-rate-limiting-middleware"
+  },
+  {
+    "title": "245 Flexbox crash course",
+    "value": "https://codecourse.com/courses/flexbox-crash-course"
+  },
+  {
+    "title": "244 Unit testing Vuex",
+    "value": "https://codecourse.com/courses/unit-testing-vuex"
+  },
+  {
+    "title": "243 Build a URL shortener",
+    "value": "https://codecourse.com/courses/build-a-url-shortener"
+  },
+  {
+    "title": "242 Quick and easy avatar uploads",
+    "value": "https://codecourse.com/courses/laravel-avatar-uploads"
+  },
+  {
+    "title": "241 Testing middleware in Laravel",
+    "value": "https://codecourse.com/courses/testing-laravel-middleware"
+  },
+  {
+    "title": "240 Recursive comment nesting in Laravel",
+    "value": "https://codecourse.com/courses/recursive-comment-nesting-in-laravel"
+  },
+  {
+    "title": "239 Learn ES6 (ECMAScript 2015)",
+    "value": "https://codecourse.com/courses/learn-es6"
+  },
+  {
+    "title": "238 Build a Podcast App",
+    "value": "https://codecourse.com/courses/build-a-podcast-site"
+  },
+  {
+    "title": "237 Build a notes app with Vuex",
+    "value": "https://codecourse.com/courses/vuex-notes-app"
+  },
+  {
+    "title": "236 Drag and drop sorting with Laravel",
+    "value": "https://codecourse.com/courses/laravel-drag-and-drop-sorting"
+  },
+  {
+    "title": "235 Slim 3 Pagination",
+    "value": "https://codecourse.com/courses/slim-3-pagination"
+  },
+  {
+    "title": "234 Vue/Vuex Single Page App Boilerplate",
+    "value": "https://codecourse.com/courses/vue-laravel-spa"
+  },
+  {
+    "title": "233 Roles and permissions in Laravel",
+    "value": "https://codecourse.com/courses/laravel-roles-and-permissions"
+  },
+  {
+    "title": "232 Dropdown Autocomplete Search Anything",
+    "value": "https://codecourse.com/courses/dropdown-autocomplete-search-anything"
+  },
+  {
+    "title": "231 Build a Placekitten clone with Silex",
+    "value": "https://codecourse.com/courses/build-a-placekitten-clone"
+  },
+  {
+    "title": "229 Laravel real-time private messages",
+    "value": "https://codecourse.com/courses/laravel-private-messages-dashboard"
+  },
+  {
+    "title": "228 Eloquent By Example",
+    "value": "https://codecourse.com/courses/eloquent-by-example"
+  },
+  {
+    "title": "227 The Symfony Translation Component",
+    "value": "https://codecourse.com/courses/symfony-translation-component"
+  },
+  {
+    "title": "225 Building array helper functions",
+    "value": "https://codecourse.com/courses/building-array-helper-functions"
+  },
+  {
+    "title": "224 DRYing up code with Eloquent Model Observers",
+    "value": "https://codecourse.com/courses/drying-up-with-eloquent-model-observers"
+  },
+  {
+    "title": "223 Symfony VarDumper",
+    "value": "https://codecourse.com/courses/symfony-vardumper"
+  },
+  {
+    "title": "222 Laravel Tagging package development",
+    "value": "https://codecourse.com/courses/laravel-tagging-package-development"
+  },
+  {
+    "title": "221 Build a classified ads site",
+    "value": "https://codecourse.com/courses/build-a-classified-ads-site"
+  },
+  {
+    "title": "220 Learn Slim 3",
+    "value": "https://codecourse.com/courses/learn-slim-3"
+  },
+  {
+    "title": "219 Laravel Acceptance Testing",
+    "value": "https://codecourse.com/courses/laravel-acceptance-testing"
+  },
+  {
+    "title": "218 Laravel third-party integration: Effortless spam detection",
+    "value": "https://codecourse.com/courses/laravel-spam-protection"
+  },
+  {
+    "title": "217 Unit testing with PHPUnit",
+    "value": "https://codecourse.com/courses/unit-testing-with-php-unit"
+  },
+  {
+    "title": "216 What's new in PHP 7.1",
+    "value": "https://codecourse.com/courses/php-71"
+  },
+  {
+    "title": "214 Slim Controllers",
+    "value": "https://codecourse.com/courses/slim-controllers"
+  },
+  {
+    "title": "213 Beautiful Slim CSRF Protection",
+    "value": "https://codecourse.com/courses/beautiful-slim-csrf-protection"
+  },
+  {
+    "title": "212 Paginated Vue Components with Laravel",
+    "value": "https://codecourse.com/courses/paginated-vue-components-with-laravel"
+  },
+  {
+    "title": "211 API Development with Laravel",
+    "value": "https://codecourse.com/courses/api-development-with-laravel"
+  },
+  {
+    "title": "210 Caching with Redis",
+    "value": "https://codecourse.com/courses/caching-with-redis"
+  },
+  {
+    "title": "209 The Liker Project",
+    "value": "https://codecourse.com/courses/the-liker-project-laravel-echo"
+  },
+  {
+    "title": "208 API Authentication with Laravel Passport",
+    "value": "https://codecourse.com/courses/api-authentication-with-laravel-passport"
+  },
+  {
+    "title": "207 PHP Basics",
+    "value": "https://codecourse.com/courses/php-basics"
+  },
+  {
+    "title": "204 Multiple File Drag & Drop Uploader",
+    "value": "https://codecourse.com/courses/multiple-file-drag-and-drop-uploader"
+  },
+  {
+    "title": "203 Filters in Vue.js 2.0",
+    "value": "https://codecourse.com/courses/filters-in-vue-2"
+  },
+  {
+    "title": "202 Build and deploy an on-the-fly image manipulation microservice",
+    "value": "https://codecourse.com/courses/image-manipulation-microservice"
+  },
+  {
+    "title": "200 ASCII Camera Project",
+    "value": "https://codecourse.com/courses/ascii-camera-project"
+  },
+  {
+    "title": "199 Flexible Social Authentication with Laravel",
+    "value": "https://codecourse.com/courses/flexible-social-authentication-with-laravel"
+  },
+  {
+    "title": "198 Passwordless Authentication with Laravel",
+    "value": "https://codecourse.com/courses/passwordless-authentication-with-laravel"
+  },
+  {
+    "title": "197 The Symfony Console Component",
+    "value": "https://codecourse.com/courses/symfony-console-component"
+  },
+  {
+    "title": "195 Laravel YouTube Clone",
+    "value": "https://codecourse.com/courses/laravel-youtube-clone"
+  },
+  {
+    "title": "194 Powerful searching with Laravel Scout",
+    "value": "https://codecourse.com/courses/laravel-scout"
+  },
+  {
+    "title": "193 PHP Essentials",
+    "value": "https://codecourse.com/courses/php-essentials"
+  },
+  {
+    "title": "192 Laravel Queues",
+    "value": "https://codecourse.com/courses/laravel-queues"
+  },
+  {
+    "title": "188 Laravel on Heroku",
+    "value": "https://codecourse.com/courses/laravel-on-heroku"
+  },
+  {
+    "title": "187 SPL Interfaces and Classes",
+    "value": "https://codecourse.com/courses/spl-interfaces-and-classes"
+  },
+  {
+    "title": "186 Real-time command line chat",
+    "value": "https://codecourse.com/courses/real-time-command-line-chat"
+  },
+  {
+    "title": "184 CSS Animated Poké Ball",
+    "value": "https://codecourse.com/courses/css-animated-poke-ball"
+  },
+  {
+    "title": "183 Tips for cleaner code",
+    "value": "https://codecourse.com/courses/tips-for-cleaner-code"
+  },
+  {
+    "title": "182 Accelerometer ball control app",
+    "value": "https://codecourse.com/courses/accelerometer-ball-control-app"
+  },
+  {
+    "title": "181 Tidying up controllers with view composers",
+    "value": "https://codecourse.com/courses/tidying-up-controllers-with-view-composers"
+  },
+  {
+    "title": "180 Two Factor Authentication with Laravel",
+    "value": "https://codecourse.com/courses/two-factor-authentication-with-laravel"
+  },
+  {
+    "title": "179 Arrays are everything",
+    "value": "https://codecourse.com/courses/arrays-are-everything"
+  },
+  {
+    "title": "178 Roll your own mini framework",
+    "value": "https://codecourse.com/courses/build-your-own-php-framework"
+  },
+  {
+    "title": "177 Build a Twitter Bot with Laravel",
+    "value": "https://codecourse.com/courses/build-a-twitter-bot-laravel"
+  },
+  {
+    "title": "176 Build a Twitter Bot",
+    "value": "https://codecourse.com/courses/build-a-twitter-bot"
+  },
+  {
+    "title": "175 Laravel Tasklist (Intermediate)",
+    "value": "https://codecourse.com/courses/laravel-tasklist-intermediate"
+  },
+  {
+    "title": "174 Laravel Tasklist (Beginner)",
+    "value": "https://codecourse.com/courses/laravel-tasklist-basic"
+  },
+  {
+    "title": "173 Exposing Laravel Homestead projects",
+    "value": "https://codecourse.com/courses/exposing-laravel-homestead-projects"
+  },
+  {
+    "title": "172 Exposing your local web server",
+    "value": "https://codecourse.com/courses/exposing-your-local-web-server"
+  },
+  {
+    "title": "171 Laravel Subscriptions",
+    "value": "https://codecourse.com/courses/laravel-subscriptions"
+  },
+  {
+    "title": "170 Mini image upload project",
+    "value": "https://codecourse.com/courses/mini-php-upload-project"
+  },
+  {
+    "title": "169 Securing configuration",
+    "value": "https://codecourse.com/courses/securing-php-configuration"
+  },
+  {
+    "title": "168 Build a shopping cart",
+    "value": "https://codecourse.com/courses/build-a-shopping-cart"
+  },
+  {
+    "title": "167 Practical Object Oriented Programming",
+    "value": "https://codecourse.com/courses/practical-object-oriented-programming"
+  },
+  {
+    "title": "166 Build a beautiful blog with Laravel",
+    "value": "https://codecourse.com/courses/build-a-beautiful-blog-with-laravel"
+  },
+  {
+    "title": "165 Design Patterns: Singleton Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-singleton-pattern"
+  },
+  {
+    "title": "164 Custom session handlers",
+    "value": "https://codecourse.com/courses/custom-php-database-session-handler"
+  },
+  {
+    "title": "163 Single-page Forum App: Frontend",
+    "value": "https://codecourse.com/courses/single-page-forum-app-vue-js"
+  },
+  {
+    "title": "162 Single-page Forum App: API",
+    "value": "https://codecourse.com/courses/single-page-forum-app-api"
+  },
+  {
+    "title": "161 Validation with Slim 3",
+    "value": "https://codecourse.com/courses/validation-with-slim-3"
+  },
+  {
+    "title": "160 Awesome uploads with Uploadcare",
+    "value": "https://codecourse.com/courses/awesome-uploads-with-uploadcare"
+  },
+  {
+    "title": "159 Eloquent and Slim",
+    "value": "https://codecourse.com/courses/laravel-eloquent-with-slim-3"
+  },
+  {
+    "title": "158 Design Patterns: Factory Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-factory-pattern"
+  },
+  {
+    "title": "157 Laravel Events and Listeners",
+    "value": "https://codecourse.com/courses/laravel-events-and-listeners"
+  },
+  {
+    "title": "155 Authentication with Slim 3",
+    "value": "https://codecourse.com/courses/slim-3-authentication"
+  },
+  {
+    "title": "154 Custom 404 views with Slim 3",
+    "value": "https://codecourse.com/courses/slim-3-custom-404-views"
+  },
+  {
+    "title": "153 Controllers and Dependency Injection with Slim 3",
+    "value": "https://codecourse.com/courses/slim-3-controllers-dependency-injection"
+  },
+  {
+    "title": "152 Design Patterns: Specification Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-specification"
+  },
+  {
+    "title": "151 Random numbers and bytes with PHP7",
+    "value": "https://codecourse.com/courses/php7-random-numbers-and-strings"
+  },
+  {
+    "title": "150 Easy social authentication",
+    "value": "https://codecourse.com/courses/easy-social-authentication"
+  },
+  {
+    "title": "149 Design Patterns: Adapter Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-adapter-pattern"
+  },
+  {
+    "title": "148 Design Patterns: Observer Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-observer-pattern"
+  },
+  {
+    "title": "147 Design Patterns: Decorator Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-decorator"
+  },
+  {
+    "title": "146 Learn Laravel",
+    "value": "https://codecourse.com/courses/laravel-fundamentals"
+  },
+  {
+    "title": "145 Custom Pagination Presenters with Laravel",
+    "value": "https://codecourse.com/courses/custom-pagination-presenters-links-laravel"
+  },
+  {
+    "title": "144 MailChimp with Laravel",
+    "value": "https://codecourse.com/courses/mailchimp-laravel"
+  },
+  {
+    "title": "143 Enforcing referential integrity with the Laravel Schema builder",
+    "value": "https://codecourse.com/courses/referential-integrity-laravel"
+  },
+  {
+    "title": "142 Instant typeahead search with Algolia",
+    "value": "https://codecourse.com/courses/instant-dropdown-search-with-algolia"
+  },
+  {
+    "title": "141 Build a Twitter style application",
+    "value": "https://codecourse.com/courses/twitter-style-application"
+  },
+  {
+    "title": "140 Vue.js todo list",
+    "value": "https://codecourse.com/courses/vue-js-todo-list"
+  },
+  {
+    "title": "139 Lightning fast Laravel Authentication",
+    "value": "https://codecourse.com/courses/quick-laravel-authentication"
+  },
+  {
+    "title": "138 Real-time chat with Node.js, Socket.io and Vue.js",
+    "value": "https://codecourse.com/courses/real-time-chat-node-socket-vue"
+  },
+  {
+    "title": "136 Making Sublime Awesome",
+    "value": "https://codecourse.com/courses/making-sublime-awesome"
+  },
+  {
+    "title": "135 PSR-4 Autoloading with Composer",
+    "value": "https://codecourse.com/courses/psr-4-autoloading-with-composer"
+  },
+  {
+    "title": "134 Build a storage class",
+    "value": "https://codecourse.com/courses/build-a-storage-class"
+  },
+  {
+    "title": "133 Design Patterns: Strategy Pattern",
+    "value": "https://codecourse.com/courses/design-patterns-strategy"
+  },
+  {
+    "title": "131 Flexible Service Providers",
+    "value": "https://codecourse.com/courses/flexible-laravel-service-providers"
+  },
+  {
+    "title": "130 A taste of Gulp",
+    "value": "https://codecourse.com/courses/a-taste-of-gulp"
+  },
+  {
+    "title": "129 Templates with Twig",
+    "value": "https://codecourse.com/courses/templates-with-twig"
+  },
+  {
+    "title": "128 To BEM or not to BEM?",
+    "value": "https://codecourse.com/courses/to-bem-or-not-to-bem"
+  },
+  {
+    "title": "127 Build your own Collection class",
+    "value": "https://codecourse.com/courses/build-your-own-collection-class"
+  },
+  {
+    "title": "125 Get started with Laravel Lumen",
+    "value": "https://codecourse.com/courses/getting-started-laravel-lumen"
+  },
+  {
+    "title": "124 Build a REST API",
+    "value": "https://codecourse.com/courses/php-rest-api"
+  },
+  {
+    "title": "123 Laravel Route Model Binding",
+    "value": "https://codecourse.com/courses/laravel-route-model-binding"
+  },
+  {
+    "title": "121 So, what's an interface?",
+    "value": "https://codecourse.com/courses/php-interfaces"
+  },
+  {
+    "title": "120 The best of PHP 7",
+    "value": "https://codecourse.com/courses/php-7-new-features"
+  },
+  {
+    "title": "119 Laravel searching with Algolia",
+    "value": "https://codecourse.com/courses/laravel-search-algolia"
+  },
+  {
+    "title": "118 Flashing messages with Slim 3",
+    "value": "https://codecourse.com/courses/slim-3-flash-messages"
+  },
+  {
+    "title": "117 Understanding namespaces",
+    "value": "https://codecourse.com/courses/php-namespaces"
+  },
+  {
+    "title": "116 Sending SMS with Twillio",
+    "value": "https://codecourse.com/courses/sending-sms-with-twillio"
+  },
+  {
+    "title": "114 Self-destructing message app",
+    "value": "https://codecourse.com/courses/self-destructing-message-app"
+  },
+  {
+    "title": "113 Sending email with Mailgun",
+    "value": "https://codecourse.com/courses/sending-email-with-mailgun"
+  },
+  {
+    "title": "112 Configuration with Slim 3",
+    "value": "https://codecourse.com/courses/configuration-with-slim-3"
+  },
+  {
+    "title": "111 Generating secure random strings with PHP",
+    "value": "https://codecourse.com/courses/securely-generate-strings-php"
+  },
+  {
+    "title": "110 Protecting email addresses from bots",
+    "value": "https://codecourse.com/courses/protect-email-addresses-from-bots"
+  },
+  {
+    "title": "109 PDO with Slim 3",
+    "value": "https://codecourse.com/courses/pdo-with-slim-3"
+  },
+  {
+    "title": "108 Views with Slim 3",
+    "value": "https://codecourse.com/courses/views-with-slim-3"
+  },
+  {
+    "title": "106 Quickly converting an array to an object in PHP",
+    "value": "https://codecourse.com/courses/php-convert-array-to-object"
+  },
+  {
+    "title": "104 Learn PDO (PHP Data Objects)",
+    "value": "https://codecourse.com/courses/php-pdo-data-objects"
+  },
+  {
+    "title": "101 Location searching with Google Maps and MongoDB",
+    "value": "https://codecourse.com/courses/google-maps-mongodb-search"
+  },
+  {
+    "title": "100 Deploying Laravel Applications with Forge and Envoyer",
+    "value": "https://codecourse.com/courses/deploying-laravel-applications-with-forge-and-envoyer"
+  },
+  {
+    "title": "99 Fun with Ternery Operators in PHP",
+    "value": "https://codecourse.com/courses/php-ternery-operators"
+  },
+  {
+    "title": "98 Basic location searching with MongoDB",
+    "value": "https://codecourse.com/courses/location-search-with-mongodb"
+  },
+  {
+    "title": "97 Generating PDF files from HTML and CSS",
+    "value": "https://codecourse.com/courses/generate-pdf-from-html-css"
+  },
+  {
+    "title": "96 PHP Security",
+    "value": "https://codecourse.com/courses/php-security"
+  },
+  {
+    "title": "93 Cloud Image Upload with Laravel",
+    "value": "https://codecourse.com/courses/cloud-image-upload-laravel"
+  },
+  {
+    "title": "90 Flexible flash notifications in Laravel",
+    "value": "https://codecourse.com/courses/laravel-flash-notifications"
+  },
+  {
+    "title": "87 Realtime chat with Pusher",
+    "value": "https://codecourse.com/courses/realtime-chat-with-pusher"
+  },
+  {
+    "title": "86 Database Models with PDO",
+    "value": "https://codecourse.com/courses/database-models-with-pdo"
+  },
+  {
+    "title": "85 Social Network",
+    "value": "https://codecourse.com/courses/social-network"
+  },
+  {
+    "title": "83 Realtime notifications with Pusher",
+    "value": "https://codecourse.com/courses/real-time-notifications-with-pusher"
+  },
+  {
+    "title": "82 Send Email With PHPMailer",
+    "value": "https://codecourse.com/courses/send-email-with-phpmailer"
+  },
+  {
+    "title": "75 The SOLID Design Principals",
+    "value": "https://codecourse.com/courses/the-solid-design-principals"
+  },
+  {
+    "title": "74 The PHP Reflection API",
+    "value": "https://codecourse.com/courses/the-php-reflection-api"
+  },
+  {
+    "title": "64 Getting started with Sass",
+    "value": "https://codecourse.com/courses/getting-started-with-sass"
+  },
+  {
+    "title": "63 Using PHP's Built-In Web Server",
+    "value": "https://codecourse.com/courses/using-php-built-in-web-server"
+  },
+  {
+    "title": "54 Dates And Times in PHP",
+    "value": "https://codecourse.com/courses/dates-and-times-in-php"
+  },
+  {
+    "title": "50 Flattening A PHP Multidimensional Array",
+    "value": "https://codecourse.com/courses/flattening-a-php-multidimensional-array"
+  },
+  {
+    "title": "34 Generate Fake Data with PHP using Faker",
+    "value": "https://codecourse.com/courses/generate-fake-data-with-php-using-faker"
+  },
+  {
+    "title": "33 Generate Scannable QR Codes With PHP",
+    "value": "https://codecourse.com/courses/generate-scannable-qr-codes-with-php"
+  },
+  {
+    "title": "32 Sniff Out Unclean Code with PHP CodeSniffer",
+    "value": "https://codecourse.com/courses/sniff-out-unclean-code-with-php-codesniffer"
+  },
+  {
+    "title": "24 Take Photos With Your Webcam In Your Browser",
+    "value": "https://codecourse.com/courses/take-photos-with-your-webcam-in-your-browser"
+  },
+  {
+    "title": "19 Emmet - The Essential Toolkit For Web Developers",
+    "value": "https://codecourse.com/courses/emmet-the-essential-toolkit-for-web-developers"
+  },
+  {
+    "title": "13 Responsive CSS Sticky Footer",
+    "value": "https://codecourse.com/courses/responsive-css-sticky-footer"
+  },
+  {
+    "title": "10 Regular Expressions",
+    "value": "https://codecourse.com/courses/regular-expressions-basics"
+  },
+  {
+    "title": "9 Git & GitHub",
+    "value": "https://codecourse.com/courses/git-and-github"
+  },
+  {
+    "title": "6 HTML5 Input Types",
+    "value": "https://codecourse.com/courses/html5-input-types"
   }
 ]
