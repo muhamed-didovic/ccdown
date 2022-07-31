@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.13.6",
+  "version": "0.14.0",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "main": "index.js",
   "directories": {
@@ -54,6 +54,7 @@
     "requestretry": "^7.1.0",
     "sanitize-filename": "^1.6.3",
     "tough-cookie": "^4.0.0",
+    "url-file-size": "^1.0.2",
     "youtube-dl-wrap": "^2.1.1",
     "ytdl-run": "^0.2.1"
   },
