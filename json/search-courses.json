@@ -1,5 +1,17 @@
 [
   {
+    "title": "503 Custom User Subdomains in Laravel",
+    "value": "https://codecourse.com/courses/custom-user-subdomains-in-laravel"
+  },
+  {
+    "title": "502 Standardised Responses with Laravel Responsables",
+    "value": "https://codecourse.com/courses/standardised-responses-with-laravel-responsables"
+  },
+  {
+    "title": "501 Enums in Laravel",
+    "value": "https://codecourse.com/courses/enums-in-laravel"
+  },
+  {
     "title": "500 Sortable models in Laravel Nova",
     "value": "https://codecourse.com/courses/sortable-models-in-laravel-nova"
   },
