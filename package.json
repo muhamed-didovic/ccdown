@@ -1,13 +1,14 @@
 {
   "name": "ccdown",
-  "version": "0.17.1",
+  "version": "0.17.2",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "files": [
-    "lib"
+    "lib",
+    "json/search-courses.json"
   ],
   "bin": {
     "ccdown": "lib/cli.js"
