@@ -1,5 +1,29 @@
 [
   {
+    "title": "514 Learn Inertia",
+    "value": "https://codecourse.com/courses/learn-inertia"
+  },
+  {
+    "title": "513 Easy Pagination with Inertia",
+    "value": "https://codecourse.com/courses/easy-pagination-with-inertia"
+  },
+  {
+    "title": "512 Build a Forum with Inertia and Laravel",
+    "value": "https://codecourse.com/courses/build-a-forum-with-inertia-and-laravel"
+  },
+  {
+    "title": "511 Installing Inertia from Scratch",
+    "value": "https://codecourse.com/courses/installing-inertia-from-scratch"
+  },
+  {
+    "title": "507 Testing Email Sending with Laravel Dusk",
+    "value": "https://codecourse.com/courses/testing-email-sending-with-laravel-dusk"
+  },
+  {
+    "title": "506 Flexible Flash Notifications with Inertia",
+    "value": "https://codecourse.com/courses/flexible-flash-notifications-with-inertia"
+  },
+  {
     "title": "505 Scheduling Actions on Models in Laravel",
     "value": "https://codecourse.com/courses/scheduling-actions-on-models-in-laravel"
   },
@@ -696,10 +720,6 @@
     "value": "https://codecourse.com/courses/bootable-traits-in-laravel"
   },
   {
-    "title": "325 Build an e-commerce platform",
-    "value": "https://codecourse.com/courses/build-an-e-commerce-platform"
-  },
-  {
     "title": "324 Vue Stash",
     "value": "https://codecourse.com/courses/vue-stash"
   },
@@ -948,10 +968,6 @@
     "value": "https://codecourse.com/courses/new-in-laravel-5-5"
   },
   {
-    "title": "258 Build a File Marketplace with Laravel",
-    "value": "https://codecourse.com/courses/build-a-file-marketplace"
-  },
-  {
     "title": "256 Build a Distraction Dashboard",
     "value": "https://codecourse.com/courses/build-a-distraction-dashboard"
   },
@@ -1156,10 +1172,6 @@
     "value": "https://codecourse.com/courses/flexible-social-authentication-with-laravel"
   },
   {
-    "title": "198 Passwordless Authentication with Laravel",
-    "value": "https://codecourse.com/courses/passwordless-authentication-with-laravel"
-  },
-  {
     "title": "197 The Symfony Console Component",
     "value": "https://codecourse.com/courses/symfony-console-component"
   },
@@ -1274,14 +1286,6 @@
   {
     "title": "164 Custom session handlers",
     "value": "https://codecourse.com/courses/custom-php-database-session-handler"
-  },
-  {
-    "title": "163 Single-page Forum App: Frontend",
-    "value": "https://codecourse.com/courses/single-page-forum-app-vue-js"
-  },
-  {
-    "title": "162 Single-page Forum App: API",
-    "value": "https://codecourse.com/courses/single-page-forum-app-api"
   },
   {
     "title": "161 Validation with Slim 3",
