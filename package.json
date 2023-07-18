@@ -1,6 +1,6 @@
 {
   "name": "ccdown",
-  "version": "0.20.1",
+  "version": "0.20.2",
   "description": "Downloader and scraper for codecourse.com for pro members",
   "type": "module",
   "main": "index.js",
@@ -33,7 +33,7 @@
   "dependencies": {
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
-    "@supercharge/promise-pool": "^2.4.0",
+    "@supercharge/promise-pool": "^3.0.0",
     "axios": "^1.4.0",
     "bluebird": "^3.7.2",
     "chalk": "^5.2.0",
@@ -64,7 +64,7 @@
     "url-file-size": "^1.0.5-1",
     "youtube-dl-wrap": "^2.1.1",
     "yt-dlp-wrap": "^2.3.11",
-    "ytdl-core": "^4.11.4",
+    "ytdl-core": "^4.11.5",
     "ytdl-run": "^0.2.1"
   },
   "devDependencies": {
