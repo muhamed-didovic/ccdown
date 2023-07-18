@@ -30,12 +30,13 @@ Options
     --password, -p      Your password.
     --directory, -d     Directory to save.
     --file, -f          Location of the file where are the courses
+    --videos, -v        Download videos (values: 'yes' or 'no'), default value is 'yes'
     --concurrency, -c
 
 Examples
     $ ccdown
     $ ccdown -a
-    $ ccdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
+    $ ccdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file] [-v yes or no]
 ```
 
 ## Log and debug
