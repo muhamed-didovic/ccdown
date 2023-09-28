@@ -43,7 +43,7 @@ Examples
 This module uses [debug](https://github.com/visionmedia/debug) to log events. To enable logs you should use environment variable `DEBUG`.
 Next command will log everything from `scraper`
 ```bash
-export DEBUG=scraper*; vsdown
+export DEBUG=scraper*; ccdown
 ```
 
 Module has different loggers for levels: `scraper:error`, `scraper:warn`, `scraper:info`, `scraper:debug`, `scraper:log`. Please read [debug](https://github.com/visionmedia/debug) documentation to find how to include/exclude specific loggers.

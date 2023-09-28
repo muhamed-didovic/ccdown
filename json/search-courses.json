@@ -1,5 +1,21 @@
 [
   {
+    "id": 519,
+    "id_title": "519 Infinite Scrolling with Inertia",
+    "title": "Infinite Scrolling with Inertia",
+    "value": "https://codecourse.com/courses/infinite-scrolling-with-inertia",
+    "slug": "infinite-scrolling-with-inertia",
+    "url": "https://codecourse.com/courses/infinite-scrolling-with-inertia"
+  },
+  {
+    "id": 518,
+    "id_title": "518 Build A Static File Blog with Laravel",
+    "title": "Build A Static File Blog with Laravel",
+    "value": "https://codecourse.com/courses/build-a-static-file-blog-with-laravel",
+    "slug": "build-a-static-file-blog-with-laravel",
+    "url": "https://codecourse.com/courses/build-a-static-file-blog-with-laravel"
+  },
+  {
     "id": 517,
     "id_title": "517 Eloquent Relationships By Example",
     "title": "Eloquent Relationships By Example",
