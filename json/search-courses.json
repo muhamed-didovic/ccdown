@@ -1,5 +1,93 @@
 [
   {
+    "id": 530,
+    "id_title": "530 Chunking Large Uploads in Livewire",
+    "title": "Chunking Large Uploads in Livewire",
+    "value": "https://codecourse.com/courses/chunking-large-uploads-in-livewire",
+    "slug": "chunking-large-uploads-in-livewire",
+    "url": "https://codecourse.com/courses/chunking-large-uploads-in-livewire"
+  },
+  {
+    "id": 529,
+    "id_title": "529 Chunking Large Uploads in Inertia",
+    "title": "Chunking Large Uploads in Inertia",
+    "value": "https://codecourse.com/courses/chunking-large-uploads-in-inertia",
+    "slug": "chunking-large-uploads-in-inertia",
+    "url": "https://codecourse.com/courses/chunking-large-uploads-in-inertia"
+  },
+  {
+    "id": 528,
+    "id_title": "528 Building Modals in Livewire",
+    "title": "Building Modals in Livewire",
+    "value": "https://codecourse.com/courses/building-modals-in-livewire",
+    "slug": "building-modals-in-livewire",
+    "url": "https://codecourse.com/courses/building-modals-in-livewire"
+  },
+  {
+    "id": 527,
+    "id_title": "527 Build a Webcam and Screen Sharing Site With Inertia",
+    "title": "Build a Webcam and Screen Sharing Site With Inertia",
+    "value": "https://codecourse.com/courses/build-a-webcam-and-screen-sharing-site-with-inertia",
+    "slug": "build-a-webcam-and-screen-sharing-site-with-inertia",
+    "url": "https://codecourse.com/courses/build-a-webcam-and-screen-sharing-site-with-inertia"
+  },
+  {
+    "id": 526,
+    "id_title": "526 Fast Infinite Scroll with Livewire",
+    "title": "Fast Infinite Scroll with Livewire",
+    "value": "https://codecourse.com/courses/fast-infinite-scroll-with-livewire",
+    "slug": "fast-infinite-scroll-with-livewire",
+    "url": "https://codecourse.com/courses/fast-infinite-scroll-with-livewire"
+  },
+  {
+    "id": 525,
+    "id_title": "525 Modals in Inertia",
+    "title": "Modals in Inertia",
+    "value": "https://codecourse.com/courses/modals-in-inertia",
+    "slug": "modals-in-inertia",
+    "url": "https://codecourse.com/courses/modals-in-inertia"
+  },
+  {
+    "id": 524,
+    "id_title": "524 Build a Starter Kit With Inertia and Fortify",
+    "title": "Build a Starter Kit With Inertia and Fortify",
+    "value": "https://codecourse.com/courses/build-a-starter-kit-with-inertia-and-fortify",
+    "slug": "build-a-starter-kit-with-inertia-and-fortify",
+    "url": "https://codecourse.com/courses/build-a-starter-kit-with-inertia-and-fortify"
+  },
+  {
+    "id": 523,
+    "id_title": "523 Building Reactive Realtime Applications with Livewire",
+    "title": "Building Reactive Realtime Applications with Livewire",
+    "value": "https://codecourse.com/courses/building-reactive-realtime-applications-with-livewire",
+    "slug": "building-reactive-realtime-applications-with-livewire",
+    "url": "https://codecourse.com/courses/building-reactive-realtime-applications-with-livewire"
+  },
+  {
+    "id": 522,
+    "id_title": "522 Learn Livewire",
+    "title": "Learn Livewire",
+    "value": "https://codecourse.com/courses/learn-livewire",
+    "slug": "learn-livewire",
+    "url": "https://codecourse.com/courses/learn-livewire"
+  },
+  {
+    "id": 521,
+    "id_title": "521 Build a URL Shortener with Volt and Folio",
+    "title": "Build a URL Shortener with Volt and Folio",
+    "value": "https://codecourse.com/courses/build-a-url-shortener-with-volt-and-folio",
+    "slug": "build-a-url-shortener-with-volt-and-folio",
+    "url": "https://codecourse.com/courses/build-a-url-shortener-with-volt-and-folio"
+  },
+  {
+    "id": 520,
+    "id_title": "520 Infinite Scroll with Livewire",
+    "title": "Infinite Scroll with Livewire",
+    "value": "https://codecourse.com/courses/infinite-scroll-with-livewire",
+    "slug": "infinite-scroll-with-livewire",
+    "url": "https://codecourse.com/courses/infinite-scroll-with-livewire"
+  },
+  {
     "id": 519,
     "id_title": "519 Infinite Scrolling with Inertia",
     "title": "Infinite Scrolling with Inertia",
@@ -448,28 +536,12 @@
     "url": "https://codecourse.com/courses/build-a-comment-system-with-livewire"
   },
   {
-    "id": 463,
-    "id_title": "463 Global Modals with Livewire and Alpine.js",
-    "title": "Global Modals with Livewire and Alpine.js",
-    "value": "https://codecourse.com/courses/global-modals-with-livewire",
-    "slug": "global-modals-with-livewire",
-    "url": "https://codecourse.com/courses/global-modals-with-livewire"
-  },
-  {
     "id": 462,
     "id_title": "462 Create a Realtime Post Timeline with Nuxt and Laravel",
     "title": "Create a Realtime Post Timeline with Nuxt and Laravel",
     "value": "https://codecourse.com/courses/create-a-realtime-post-timeline-with-nuxt-and-laravel",
     "slug": "create-a-realtime-post-timeline-with-nuxt-and-laravel",
     "url": "https://codecourse.com/courses/create-a-realtime-post-timeline-with-nuxt-and-laravel"
-  },
-  {
-    "id": 461,
-    "id_title": "461 Livewire Infinite Scroll",
-    "title": "Livewire Infinite Scroll",
-    "value": "https://codecourse.com/courses/livewire-infinite-scroll",
-    "slug": "livewire-infinite-scroll",
-    "url": "https://codecourse.com/courses/livewire-infinite-scroll"
   },
   {
     "id": 460,
@@ -598,14 +670,6 @@
     "value": "https://codecourse.com/courses/gradient-headers-with-tailwind",
     "slug": "gradient-headers-with-tailwind",
     "url": "https://codecourse.com/courses/gradient-headers-with-tailwind"
-  },
-  {
-    "id": 444,
-    "id_title": "444 The Liker Project 3.0",
-    "title": "The Liker Project 3.0",
-    "value": "https://codecourse.com/courses/the-liker-project-3-0",
-    "slug": "the-liker-project-3-0",
-    "url": "https://codecourse.com/courses/the-liker-project-3-0"
   },
   {
     "id": 443,
@@ -920,14 +984,6 @@
     "url": "https://codecourse.com/courses/new-in-vue-3"
   },
   {
-    "id": 403,
-    "id_title": "403 Getting started with Laravel Livewire",
-    "title": "Getting started with Laravel Livewire",
-    "value": "https://codecourse.com/courses/getting-started-with-laravel-livewire",
-    "slug": "getting-started-with-laravel-livewire",
-    "url": "https://codecourse.com/courses/getting-started-with-laravel-livewire"
-  },
-  {
     "id": 402,
     "id_title": "402 Build a Twitter Clone",
     "title": "Build a Twitter Clone",
@@ -1128,14 +1184,6 @@
     "url": "https://codecourse.com/courses/vue-multiple-file-drag-and-drop-uploader"
   },
   {
-    "id": 375,
-    "id_title": "375 Build a code snippet website",
-    "title": "Build a code snippet website",
-    "value": "https://codecourse.com/courses/build-a-code-snippet-website-with-me",
-    "slug": "build-a-code-snippet-website-with-me",
-    "url": "https://codecourse.com/courses/build-a-code-snippet-website-with-me"
-  },
-  {
     "id": 374,
     "id_title": "374 Laravel View Presenters",
     "title": "Laravel View Presenters",
@@ -1190,14 +1238,6 @@
     "value": "https://codecourse.com/courses/flutter-state-management-with-provider",
     "slug": "flutter-state-management-with-provider",
     "url": "https://codecourse.com/courses/flutter-state-management-with-provider"
-  },
-  {
-    "id": 367,
-    "id_title": "367 Vue InstantSearch in Nuxt",
-    "title": "Vue InstantSearch in Nuxt",
-    "value": "https://codecourse.com/courses/vue-instantsearch-in-nuxt",
-    "slug": "vue-instantsearch-in-nuxt",
-    "url": "https://codecourse.com/courses/vue-instantsearch-in-nuxt"
   },
   {
     "id": 366,
@@ -1342,14 +1382,6 @@
     "value": "https://codecourse.com/courses/super-fast-data-nesting",
     "slug": "super-fast-data-nesting",
     "url": "https://codecourse.com/courses/super-fast-data-nesting"
-  },
-  {
-    "id": 348,
-    "id_title": "348 Vue.js + Firebase Authentication",
-    "title": "Vue.js + Firebase Authentication",
-    "value": "https://codecourse.com/courses/vue-js-firebase-authentication",
-    "slug": "vue-js-firebase-authentication",
-    "url": "https://codecourse.com/courses/vue-js-firebase-authentication"
   },
   {
     "id": 347,
@@ -1696,14 +1728,6 @@
     "url": "https://codecourse.com/courses/eloquent-translations-with-slim-3"
   },
   {
-    "id": 299,
-    "id_title": "299 Build a forum with AdonisJS",
-    "title": "Build a forum with AdonisJS",
-    "value": "https://codecourse.com/courses/build-a-forum-with-adonis-js",
-    "slug": "build-a-forum-with-adonis-js",
-    "url": "https://codecourse.com/courses/build-a-forum-with-adonis-js"
-  },
-  {
     "id": 298,
     "id_title": "298 Custom exception handling in Slim 3",
     "title": "Custom exception handling in Slim 3",
@@ -1784,14 +1808,6 @@
     "url": "https://codecourse.com/courses/build-a-multi-user-video-chat-app"
   },
   {
-    "id": 288,
-    "id_title": "288 Learn Vue.js Server-Side Rendering",
-    "title": "Learn Vue.js Server-Side Rendering",
-    "value": "https://codecourse.com/courses/learn-vue-js-server-side-rendering",
-    "slug": "learn-vue-js-server-side-rendering",
-    "url": "https://codecourse.com/courses/learn-vue-js-server-side-rendering"
-  },
-  {
     "id": 287,
     "id_title": "287 Building a Vue project with Webpack",
     "title": "Building a Vue project with Webpack",
@@ -1806,22 +1822,6 @@
     "value": "https://codecourse.com/courses/laravel-saas-boilerplate",
     "slug": "laravel-saas-boilerplate",
     "url": "https://codecourse.com/courses/laravel-saas-boilerplate"
-  },
-  {
-    "id": 285,
-    "id_title": "285 Get friendly with Webpack",
-    "title": "Get friendly with Webpack",
-    "value": "https://codecourse.com/courses/get-friendly-with-webpack",
-    "slug": "get-friendly-with-webpack",
-    "url": "https://codecourse.com/courses/get-friendly-with-webpack"
-  },
-  {
-    "id": 284,
-    "id_title": "284 Build a JavaScript breakout game with Phaser",
-    "title": "Build a JavaScript breakout game with Phaser",
-    "value": "https://codecourse.com/courses/build-a-javascript-breakout-game-with-phaser",
-    "slug": "build-a-javascript-breakout-game-with-phaser",
-    "url": "https://codecourse.com/courses/build-a-javascript-breakout-game-with-phaser"
   },
   {
     "id": 282,
@@ -1929,8 +1929,8 @@
   },
   {
     "id": 268,
-    "id_title": "268 Laravel DataTables",
-    "title": "Laravel DataTables",
+    "id_title": "268 Laravel Datatables",
+    "title": "Laravel Datatables",
     "value": "https://codecourse.com/courses/laravel-datatables",
     "slug": "laravel-datatables",
     "url": "https://codecourse.com/courses/laravel-datatables"
@@ -1990,14 +1990,6 @@
     "value": "https://codecourse.com/courses/clean-code-laravel",
     "slug": "clean-code-laravel",
     "url": "https://codecourse.com/courses/clean-code-laravel"
-  },
-  {
-    "id": 259,
-    "id_title": "259 New in Laravel 5.5",
-    "title": "New in Laravel 5.5",
-    "value": "https://codecourse.com/courses/new-in-laravel-5-5",
-    "slug": "new-in-laravel-5-5",
-    "url": "https://codecourse.com/courses/new-in-laravel-5-5"
   },
   {
     "id": 256,
@@ -2064,28 +2056,12 @@
     "url": "https://codecourse.com/courses/end-to-end-browser-testing-with-laravel-dusk"
   },
   {
-    "id": 247,
-    "id_title": "247 Learn Vuex",
-    "title": "Learn Vuex",
-    "value": "https://codecourse.com/courses/learn-vuex",
-    "slug": "learn-vuex",
-    "url": "https://codecourse.com/courses/learn-vuex"
-  },
-  {
     "id": 246,
     "id_title": "246 Slim API rate limiting middleware from scratch",
     "title": "Slim API rate limiting middleware from scratch",
     "value": "https://codecourse.com/courses/slim-api-rate-limiting-middleware",
     "slug": "slim-api-rate-limiting-middleware",
     "url": "https://codecourse.com/courses/slim-api-rate-limiting-middleware"
-  },
-  {
-    "id": 245,
-    "id_title": "245 Flexbox crash course",
-    "title": "Flexbox crash course",
-    "value": "https://codecourse.com/courses/flexbox-crash-course",
-    "slug": "flexbox-crash-course",
-    "url": "https://codecourse.com/courses/flexbox-crash-course"
   },
   {
     "id": 244,
@@ -2136,14 +2112,6 @@
     "url": "https://codecourse.com/courses/learn-es6"
   },
   {
-    "id": 238,
-    "id_title": "238 Build a Podcast App",
-    "title": "Build a Podcast App",
-    "value": "https://codecourse.com/courses/build-a-podcast-site",
-    "slug": "build-a-podcast-site",
-    "url": "https://codecourse.com/courses/build-a-podcast-site"
-  },
-  {
     "id": 237,
     "id_title": "237 Build a notes app with Vuex",
     "title": "Build a notes app with Vuex",
@@ -2158,14 +2126,6 @@
     "value": "https://codecourse.com/courses/laravel-drag-and-drop-sorting",
     "slug": "laravel-drag-and-drop-sorting",
     "url": "https://codecourse.com/courses/laravel-drag-and-drop-sorting"
-  },
-  {
-    "id": 235,
-    "id_title": "235 Slim 3 Pagination",
-    "title": "Slim 3 Pagination",
-    "value": "https://codecourse.com/courses/slim-3-pagination",
-    "slug": "slim-3-pagination",
-    "url": "https://codecourse.com/courses/slim-3-pagination"
   },
   {
     "id": 234,
@@ -2184,36 +2144,12 @@
     "url": "https://codecourse.com/courses/laravel-roles-and-permissions"
   },
   {
-    "id": 232,
-    "id_title": "232 Dropdown Autocomplete Search Anything",
-    "title": "Dropdown Autocomplete Search Anything",
-    "value": "https://codecourse.com/courses/dropdown-autocomplete-search-anything",
-    "slug": "dropdown-autocomplete-search-anything",
-    "url": "https://codecourse.com/courses/dropdown-autocomplete-search-anything"
-  },
-  {
-    "id": 231,
-    "id_title": "231 Build a Placekitten clone with Silex",
-    "title": "Build a Placekitten clone with Silex",
-    "value": "https://codecourse.com/courses/build-a-placekitten-clone",
-    "slug": "build-a-placekitten-clone",
-    "url": "https://codecourse.com/courses/build-a-placekitten-clone"
-  },
-  {
     "id": 229,
     "id_title": "229 Laravel real-time private messages",
     "title": "Laravel real-time private messages",
     "value": "https://codecourse.com/courses/laravel-private-messages-dashboard",
     "slug": "laravel-private-messages-dashboard",
     "url": "https://codecourse.com/courses/laravel-private-messages-dashboard"
-  },
-  {
-    "id": 228,
-    "id_title": "228 Eloquent By Example",
-    "title": "Eloquent By Example",
-    "value": "https://codecourse.com/courses/eloquent-by-example",
-    "slug": "eloquent-by-example",
-    "url": "https://codecourse.com/courses/eloquent-by-example"
   },
   {
     "id": 227,
@@ -2288,36 +2224,12 @@
     "url": "https://codecourse.com/courses/laravel-spam-protection"
   },
   {
-    "id": 217,
-    "id_title": "217 Unit testing with PHPUnit",
-    "title": "Unit testing with PHPUnit",
-    "value": "https://codecourse.com/courses/unit-testing-with-php-unit",
-    "slug": "unit-testing-with-php-unit",
-    "url": "https://codecourse.com/courses/unit-testing-with-php-unit"
-  },
-  {
     "id": 216,
     "id_title": "216 What's new in PHP 7.1",
     "title": "What's new in PHP 7.1",
     "value": "https://codecourse.com/courses/php-71",
     "slug": "php-71",
     "url": "https://codecourse.com/courses/php-71"
-  },
-  {
-    "id": 214,
-    "id_title": "214 Slim Controllers",
-    "title": "Slim Controllers",
-    "value": "https://codecourse.com/courses/slim-controllers",
-    "slug": "slim-controllers",
-    "url": "https://codecourse.com/courses/slim-controllers"
-  },
-  {
-    "id": 213,
-    "id_title": "213 Beautiful Slim CSRF Protection",
-    "title": "Beautiful Slim CSRF Protection",
-    "value": "https://codecourse.com/courses/beautiful-slim-csrf-protection",
-    "slug": "beautiful-slim-csrf-protection",
-    "url": "https://codecourse.com/courses/beautiful-slim-csrf-protection"
   },
   {
     "id": 212,
@@ -2334,14 +2246,6 @@
     "value": "https://codecourse.com/courses/api-development-with-laravel",
     "slug": "api-development-with-laravel",
     "url": "https://codecourse.com/courses/api-development-with-laravel"
-  },
-  {
-    "id": 210,
-    "id_title": "210 Caching with Redis",
-    "title": "Caching with Redis",
-    "value": "https://codecourse.com/courses/caching-with-redis",
-    "slug": "caching-with-redis",
-    "url": "https://codecourse.com/courses/caching-with-redis"
   },
   {
     "id": 209,
@@ -2368,60 +2272,12 @@
     "url": "https://codecourse.com/courses/php-basics"
   },
   {
-    "id": 204,
-    "id_title": "204 Multiple File Drag & Drop Uploader",
-    "title": "Multiple File Drag & Drop Uploader",
-    "value": "https://codecourse.com/courses/multiple-file-drag-and-drop-uploader",
-    "slug": "multiple-file-drag-and-drop-uploader",
-    "url": "https://codecourse.com/courses/multiple-file-drag-and-drop-uploader"
-  },
-  {
     "id": 203,
     "id_title": "203 Filters in Vue.js 2.0",
     "title": "Filters in Vue.js 2.0",
     "value": "https://codecourse.com/courses/filters-in-vue-2",
     "slug": "filters-in-vue-2",
     "url": "https://codecourse.com/courses/filters-in-vue-2"
-  },
-  {
-    "id": 202,
-    "id_title": "202 Build and deploy an on-the-fly image manipulation microservice",
-    "title": "Build and deploy an on-the-fly image manipulation microservice",
-    "value": "https://codecourse.com/courses/image-manipulation-microservice",
-    "slug": "image-manipulation-microservice",
-    "url": "https://codecourse.com/courses/image-manipulation-microservice"
-  },
-  {
-    "id": 200,
-    "id_title": "200 ASCII Camera Project",
-    "title": "ASCII Camera Project",
-    "value": "https://codecourse.com/courses/ascii-camera-project",
-    "slug": "ascii-camera-project",
-    "url": "https://codecourse.com/courses/ascii-camera-project"
-  },
-  {
-    "id": 199,
-    "id_title": "199 Flexible Social Authentication with Laravel",
-    "title": "Flexible Social Authentication with Laravel",
-    "value": "https://codecourse.com/courses/flexible-social-authentication-with-laravel",
-    "slug": "flexible-social-authentication-with-laravel",
-    "url": "https://codecourse.com/courses/flexible-social-authentication-with-laravel"
-  },
-  {
-    "id": 197,
-    "id_title": "197 The Symfony Console Component",
-    "title": "The Symfony Console Component",
-    "value": "https://codecourse.com/courses/symfony-console-component",
-    "slug": "symfony-console-component",
-    "url": "https://codecourse.com/courses/symfony-console-component"
-  },
-  {
-    "id": 195,
-    "id_title": "195 Laravel YouTube Clone",
-    "title": "Laravel YouTube Clone",
-    "value": "https://codecourse.com/courses/laravel-youtube-clone",
-    "slug": "laravel-youtube-clone",
-    "url": "https://codecourse.com/courses/laravel-youtube-clone"
   },
   {
     "id": 194,
@@ -2464,36 +2320,12 @@
     "url": "https://codecourse.com/courses/spl-interfaces-and-classes"
   },
   {
-    "id": 186,
-    "id_title": "186 Real-time command line chat",
-    "title": "Real-time command line chat",
-    "value": "https://codecourse.com/courses/real-time-command-line-chat",
-    "slug": "real-time-command-line-chat",
-    "url": "https://codecourse.com/courses/real-time-command-line-chat"
-  },
-  {
-    "id": 184,
-    "id_title": "184 CSS Animated Poké Ball",
-    "title": "CSS Animated Poké Ball",
-    "value": "https://codecourse.com/courses/css-animated-poke-ball",
-    "slug": "css-animated-poke-ball",
-    "url": "https://codecourse.com/courses/css-animated-poke-ball"
-  },
-  {
     "id": 183,
     "id_title": "183 Tips for cleaner code",
     "title": "Tips for cleaner code",
     "value": "https://codecourse.com/courses/tips-for-cleaner-code",
     "slug": "tips-for-cleaner-code",
     "url": "https://codecourse.com/courses/tips-for-cleaner-code"
-  },
-  {
-    "id": 182,
-    "id_title": "182 Accelerometer ball control app",
-    "title": "Accelerometer ball control app",
-    "value": "https://codecourse.com/courses/accelerometer-ball-control-app",
-    "slug": "accelerometer-ball-control-app",
-    "url": "https://codecourse.com/courses/accelerometer-ball-control-app"
   },
   {
     "id": 181,
@@ -2504,44 +2336,12 @@
     "url": "https://codecourse.com/courses/tidying-up-controllers-with-view-composers"
   },
   {
-    "id": 180,
-    "id_title": "180 Two Factor Authentication with Laravel",
-    "title": "Two Factor Authentication with Laravel",
-    "value": "https://codecourse.com/courses/two-factor-authentication-with-laravel",
-    "slug": "two-factor-authentication-with-laravel",
-    "url": "https://codecourse.com/courses/two-factor-authentication-with-laravel"
-  },
-  {
     "id": 179,
     "id_title": "179 Arrays are everything",
     "title": "Arrays are everything",
     "value": "https://codecourse.com/courses/arrays-are-everything",
     "slug": "arrays-are-everything",
     "url": "https://codecourse.com/courses/arrays-are-everything"
-  },
-  {
-    "id": 178,
-    "id_title": "178 Roll your own mini framework",
-    "title": "Roll your own mini framework",
-    "value": "https://codecourse.com/courses/build-your-own-php-framework",
-    "slug": "build-your-own-php-framework",
-    "url": "https://codecourse.com/courses/build-your-own-php-framework"
-  },
-  {
-    "id": 177,
-    "id_title": "177 Build a Twitter Bot with Laravel",
-    "title": "Build a Twitter Bot with Laravel",
-    "value": "https://codecourse.com/courses/build-a-twitter-bot-laravel",
-    "slug": "build-a-twitter-bot-laravel",
-    "url": "https://codecourse.com/courses/build-a-twitter-bot-laravel"
-  },
-  {
-    "id": 176,
-    "id_title": "176 Build a Twitter Bot",
-    "title": "Build a Twitter Bot",
-    "value": "https://codecourse.com/courses/build-a-twitter-bot",
-    "slug": "build-a-twitter-bot",
-    "url": "https://codecourse.com/courses/build-a-twitter-bot"
   },
   {
     "id": 175,
@@ -2576,36 +2376,12 @@
     "url": "https://codecourse.com/courses/exposing-your-local-web-server"
   },
   {
-    "id": 171,
-    "id_title": "171 Laravel Subscriptions",
-    "title": "Laravel Subscriptions",
-    "value": "https://codecourse.com/courses/laravel-subscriptions",
-    "slug": "laravel-subscriptions",
-    "url": "https://codecourse.com/courses/laravel-subscriptions"
-  },
-  {
-    "id": 170,
-    "id_title": "170 Mini image upload project",
-    "title": "Mini image upload project",
-    "value": "https://codecourse.com/courses/mini-php-upload-project",
-    "slug": "mini-php-upload-project",
-    "url": "https://codecourse.com/courses/mini-php-upload-project"
-  },
-  {
     "id": 169,
     "id_title": "169 Securing configuration",
     "title": "Securing configuration",
     "value": "https://codecourse.com/courses/securing-php-configuration",
     "slug": "securing-php-configuration",
     "url": "https://codecourse.com/courses/securing-php-configuration"
-  },
-  {
-    "id": 168,
-    "id_title": "168 Build a shopping cart",
-    "title": "Build a shopping cart",
-    "value": "https://codecourse.com/courses/build-a-shopping-cart",
-    "slug": "build-a-shopping-cart",
-    "url": "https://codecourse.com/courses/build-a-shopping-cart"
   },
   {
     "id": 167,
@@ -2616,36 +2392,12 @@
     "url": "https://codecourse.com/courses/practical-object-oriented-programming"
   },
   {
-    "id": 166,
-    "id_title": "166 Build a beautiful blog with Laravel",
-    "title": "Build a beautiful blog with Laravel",
-    "value": "https://codecourse.com/courses/build-a-beautiful-blog-with-laravel",
-    "slug": "build-a-beautiful-blog-with-laravel",
-    "url": "https://codecourse.com/courses/build-a-beautiful-blog-with-laravel"
-  },
-  {
     "id": 165,
     "id_title": "165 Design Patterns: Singleton Pattern",
     "title": "Design Patterns: Singleton Pattern",
     "value": "https://codecourse.com/courses/design-patterns-singleton-pattern",
     "slug": "design-patterns-singleton-pattern",
     "url": "https://codecourse.com/courses/design-patterns-singleton-pattern"
-  },
-  {
-    "id": 164,
-    "id_title": "164 Custom session handlers",
-    "title": "Custom session handlers",
-    "value": "https://codecourse.com/courses/custom-php-database-session-handler",
-    "slug": "custom-php-database-session-handler",
-    "url": "https://codecourse.com/courses/custom-php-database-session-handler"
-  },
-  {
-    "id": 161,
-    "id_title": "161 Validation with Slim 3",
-    "title": "Validation with Slim 3",
-    "value": "https://codecourse.com/courses/validation-with-slim-3",
-    "slug": "validation-with-slim-3",
-    "url": "https://codecourse.com/courses/validation-with-slim-3"
   },
   {
     "id": 160,
@@ -2680,30 +2432,6 @@
     "url": "https://codecourse.com/courses/laravel-events-and-listeners"
   },
   {
-    "id": 155,
-    "id_title": "155 Authentication with Slim 3",
-    "title": "Authentication with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-authentication",
-    "slug": "slim-3-authentication",
-    "url": "https://codecourse.com/courses/slim-3-authentication"
-  },
-  {
-    "id": 154,
-    "id_title": "154 Custom 404 views with Slim 3",
-    "title": "Custom 404 views with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-custom-404-views",
-    "slug": "slim-3-custom-404-views",
-    "url": "https://codecourse.com/courses/slim-3-custom-404-views"
-  },
-  {
-    "id": 153,
-    "id_title": "153 Controllers and Dependency Injection with Slim 3",
-    "title": "Controllers and Dependency Injection with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-controllers-dependency-injection",
-    "slug": "slim-3-controllers-dependency-injection",
-    "url": "https://codecourse.com/courses/slim-3-controllers-dependency-injection"
-  },
-  {
     "id": 152,
     "id_title": "152 Design Patterns: Specification Pattern",
     "title": "Design Patterns: Specification Pattern",
@@ -2718,14 +2446,6 @@
     "value": "https://codecourse.com/courses/php7-random-numbers-and-strings",
     "slug": "php7-random-numbers-and-strings",
     "url": "https://codecourse.com/courses/php7-random-numbers-and-strings"
-  },
-  {
-    "id": 150,
-    "id_title": "150 Easy social authentication",
-    "title": "Easy social authentication",
-    "value": "https://codecourse.com/courses/easy-social-authentication",
-    "slug": "easy-social-authentication",
-    "url": "https://codecourse.com/courses/easy-social-authentication"
   },
   {
     "id": 149,
@@ -2768,14 +2488,6 @@
     "url": "https://codecourse.com/courses/custom-pagination-presenters-links-laravel"
   },
   {
-    "id": 144,
-    "id_title": "144 MailChimp with Laravel",
-    "title": "MailChimp with Laravel",
-    "value": "https://codecourse.com/courses/mailchimp-laravel",
-    "slug": "mailchimp-laravel",
-    "url": "https://codecourse.com/courses/mailchimp-laravel"
-  },
-  {
     "id": 143,
     "id_title": "143 Enforcing referential integrity with the Laravel Schema builder",
     "title": "Enforcing referential integrity with the Laravel Schema builder",
@@ -2784,44 +2496,12 @@
     "url": "https://codecourse.com/courses/referential-integrity-laravel"
   },
   {
-    "id": 142,
-    "id_title": "142 Instant typeahead search with Algolia",
-    "title": "Instant typeahead search with Algolia",
-    "value": "https://codecourse.com/courses/instant-dropdown-search-with-algolia",
-    "slug": "instant-dropdown-search-with-algolia",
-    "url": "https://codecourse.com/courses/instant-dropdown-search-with-algolia"
-  },
-  {
-    "id": 141,
-    "id_title": "141 Build a Twitter style application",
-    "title": "Build a Twitter style application",
-    "value": "https://codecourse.com/courses/twitter-style-application",
-    "slug": "twitter-style-application",
-    "url": "https://codecourse.com/courses/twitter-style-application"
-  },
-  {
-    "id": 140,
-    "id_title": "140 Vue.js todo list",
-    "title": "Vue.js todo list",
-    "value": "https://codecourse.com/courses/vue-js-todo-list",
-    "slug": "vue-js-todo-list",
-    "url": "https://codecourse.com/courses/vue-js-todo-list"
-  },
-  {
     "id": 139,
     "id_title": "139 Lightning fast Laravel Authentication",
     "title": "Lightning fast Laravel Authentication",
     "value": "https://codecourse.com/courses/quick-laravel-authentication",
     "slug": "quick-laravel-authentication",
     "url": "https://codecourse.com/courses/quick-laravel-authentication"
-  },
-  {
-    "id": 138,
-    "id_title": "138 Real-time chat with Node.js, Socket.io and Vue.js",
-    "title": "Real-time chat with Node.js, Socket.io and Vue.js",
-    "value": "https://codecourse.com/courses/real-time-chat-node-socket-vue",
-    "slug": "real-time-chat-node-socket-vue",
-    "url": "https://codecourse.com/courses/real-time-chat-node-socket-vue"
   },
   {
     "id": 136,
@@ -2838,14 +2518,6 @@
     "value": "https://codecourse.com/courses/psr-4-autoloading-with-composer",
     "slug": "psr-4-autoloading-with-composer",
     "url": "https://codecourse.com/courses/psr-4-autoloading-with-composer"
-  },
-  {
-    "id": 134,
-    "id_title": "134 Build a storage class",
-    "title": "Build a storage class",
-    "value": "https://codecourse.com/courses/build-a-storage-class",
-    "slug": "build-a-storage-class",
-    "url": "https://codecourse.com/courses/build-a-storage-class"
   },
   {
     "id": 133,
@@ -2888,30 +2560,6 @@
     "url": "https://codecourse.com/courses/to-bem-or-not-to-bem"
   },
   {
-    "id": 127,
-    "id_title": "127 Build your own Collection class",
-    "title": "Build your own Collection class",
-    "value": "https://codecourse.com/courses/build-your-own-collection-class",
-    "slug": "build-your-own-collection-class",
-    "url": "https://codecourse.com/courses/build-your-own-collection-class"
-  },
-  {
-    "id": 125,
-    "id_title": "125 Get started with Laravel Lumen",
-    "title": "Get started with Laravel Lumen",
-    "value": "https://codecourse.com/courses/getting-started-laravel-lumen",
-    "slug": "getting-started-laravel-lumen",
-    "url": "https://codecourse.com/courses/getting-started-laravel-lumen"
-  },
-  {
-    "id": 124,
-    "id_title": "124 Build a REST API",
-    "title": "Build a REST API",
-    "value": "https://codecourse.com/courses/php-rest-api",
-    "slug": "php-rest-api",
-    "url": "https://codecourse.com/courses/php-rest-api"
-  },
-  {
     "id": 123,
     "id_title": "123 Laravel Route Model Binding",
     "title": "Laravel Route Model Binding",
@@ -2944,14 +2592,6 @@
     "url": "https://codecourse.com/courses/laravel-search-algolia"
   },
   {
-    "id": 118,
-    "id_title": "118 Flashing messages with Slim 3",
-    "title": "Flashing messages with Slim 3",
-    "value": "https://codecourse.com/courses/slim-3-flash-messages",
-    "slug": "slim-3-flash-messages",
-    "url": "https://codecourse.com/courses/slim-3-flash-messages"
-  },
-  {
     "id": 117,
     "id_title": "117 Understanding namespaces",
     "title": "Understanding namespaces",
@@ -2966,14 +2606,6 @@
     "value": "https://codecourse.com/courses/sending-sms-with-twillio",
     "slug": "sending-sms-with-twillio",
     "url": "https://codecourse.com/courses/sending-sms-with-twillio"
-  },
-  {
-    "id": 114,
-    "id_title": "114 Self-destructing message app",
-    "title": "Self-destructing message app",
-    "value": "https://codecourse.com/courses/self-destructing-message-app",
-    "slug": "self-destructing-message-app",
-    "url": "https://codecourse.com/courses/self-destructing-message-app"
   },
   {
     "id": 113,
@@ -3000,30 +2632,6 @@
     "url": "https://codecourse.com/courses/securely-generate-strings-php"
   },
   {
-    "id": 110,
-    "id_title": "110 Protecting email addresses from bots",
-    "title": "Protecting email addresses from bots",
-    "value": "https://codecourse.com/courses/protect-email-addresses-from-bots",
-    "slug": "protect-email-addresses-from-bots",
-    "url": "https://codecourse.com/courses/protect-email-addresses-from-bots"
-  },
-  {
-    "id": 109,
-    "id_title": "109 PDO with Slim 3",
-    "title": "PDO with Slim 3",
-    "value": "https://codecourse.com/courses/pdo-with-slim-3",
-    "slug": "pdo-with-slim-3",
-    "url": "https://codecourse.com/courses/pdo-with-slim-3"
-  },
-  {
-    "id": 108,
-    "id_title": "108 Views with Slim 3",
-    "title": "Views with Slim 3",
-    "value": "https://codecourse.com/courses/views-with-slim-3",
-    "slug": "views-with-slim-3",
-    "url": "https://codecourse.com/courses/views-with-slim-3"
-  },
-  {
     "id": 106,
     "id_title": "106 Quickly converting an array to an object in PHP",
     "title": "Quickly converting an array to an object in PHP",
@@ -3040,14 +2648,6 @@
     "url": "https://codecourse.com/courses/php-pdo-data-objects"
   },
   {
-    "id": 101,
-    "id_title": "101 Location searching with Google Maps and MongoDB",
-    "title": "Location searching with Google Maps and MongoDB",
-    "value": "https://codecourse.com/courses/google-maps-mongodb-search",
-    "slug": "google-maps-mongodb-search",
-    "url": "https://codecourse.com/courses/google-maps-mongodb-search"
-  },
-  {
     "id": 100,
     "id_title": "100 Deploying Laravel Applications with Forge and Envoyer",
     "title": "Deploying Laravel Applications with Forge and Envoyer",
@@ -3062,78 +2662,6 @@
     "value": "https://codecourse.com/courses/php-ternery-operators",
     "slug": "php-ternery-operators",
     "url": "https://codecourse.com/courses/php-ternery-operators"
-  },
-  {
-    "id": 98,
-    "id_title": "98 Basic location searching with MongoDB",
-    "title": "Basic location searching with MongoDB",
-    "value": "https://codecourse.com/courses/location-search-with-mongodb",
-    "slug": "location-search-with-mongodb",
-    "url": "https://codecourse.com/courses/location-search-with-mongodb"
-  },
-  {
-    "id": 97,
-    "id_title": "97 Generating PDF files from HTML and CSS",
-    "title": "Generating PDF files from HTML and CSS",
-    "value": "https://codecourse.com/courses/generate-pdf-from-html-css",
-    "slug": "generate-pdf-from-html-css",
-    "url": "https://codecourse.com/courses/generate-pdf-from-html-css"
-  },
-  {
-    "id": 96,
-    "id_title": "96 PHP Security",
-    "title": "PHP Security",
-    "value": "https://codecourse.com/courses/php-security",
-    "slug": "php-security",
-    "url": "https://codecourse.com/courses/php-security"
-  },
-  {
-    "id": 93,
-    "id_title": "93 Cloud Image Upload with Laravel",
-    "title": "Cloud Image Upload with Laravel",
-    "value": "https://codecourse.com/courses/cloud-image-upload-laravel",
-    "slug": "cloud-image-upload-laravel",
-    "url": "https://codecourse.com/courses/cloud-image-upload-laravel"
-  },
-  {
-    "id": 90,
-    "id_title": "90 Flexible flash notifications in Laravel",
-    "title": "Flexible flash notifications in Laravel",
-    "value": "https://codecourse.com/courses/laravel-flash-notifications",
-    "slug": "laravel-flash-notifications",
-    "url": "https://codecourse.com/courses/laravel-flash-notifications"
-  },
-  {
-    "id": 87,
-    "id_title": "87 Realtime chat with Pusher",
-    "title": "Realtime chat with Pusher",
-    "value": "https://codecourse.com/courses/realtime-chat-with-pusher",
-    "slug": "realtime-chat-with-pusher",
-    "url": "https://codecourse.com/courses/realtime-chat-with-pusher"
-  },
-  {
-    "id": 86,
-    "id_title": "86 Database Models with PDO",
-    "title": "Database Models with PDO",
-    "value": "https://codecourse.com/courses/database-models-with-pdo",
-    "slug": "database-models-with-pdo",
-    "url": "https://codecourse.com/courses/database-models-with-pdo"
-  },
-  {
-    "id": 85,
-    "id_title": "85 Social Network",
-    "title": "Social Network",
-    "value": "https://codecourse.com/courses/social-network",
-    "slug": "social-network",
-    "url": "https://codecourse.com/courses/social-network"
-  },
-  {
-    "id": 83,
-    "id_title": "83 Realtime notifications with Pusher",
-    "title": "Realtime notifications with Pusher",
-    "value": "https://codecourse.com/courses/real-time-notifications-with-pusher",
-    "slug": "real-time-notifications-with-pusher",
-    "url": "https://codecourse.com/courses/real-time-notifications-with-pusher"
   },
   {
     "id": 82,
@@ -3200,14 +2728,6 @@
     "url": "https://codecourse.com/courses/generate-fake-data-with-php-using-faker"
   },
   {
-    "id": 33,
-    "id_title": "33 Generate Scannable QR Codes With PHP",
-    "title": "Generate Scannable QR Codes With PHP",
-    "value": "https://codecourse.com/courses/generate-scannable-qr-codes-with-php",
-    "slug": "generate-scannable-qr-codes-with-php",
-    "url": "https://codecourse.com/courses/generate-scannable-qr-codes-with-php"
-  },
-  {
     "id": 32,
     "id_title": "32 Sniff Out Unclean Code with PHP CodeSniffer",
     "title": "Sniff Out Unclean Code with PHP CodeSniffer",
@@ -3216,28 +2736,12 @@
     "url": "https://codecourse.com/courses/sniff-out-unclean-code-with-php-codesniffer"
   },
   {
-    "id": 24,
-    "id_title": "24 Take Photos With Your Webcam In Your Browser",
-    "title": "Take Photos With Your Webcam In Your Browser",
-    "value": "https://codecourse.com/courses/take-photos-with-your-webcam-in-your-browser",
-    "slug": "take-photos-with-your-webcam-in-your-browser",
-    "url": "https://codecourse.com/courses/take-photos-with-your-webcam-in-your-browser"
-  },
-  {
     "id": 19,
     "id_title": "19 Emmet - The Essential Toolkit For Web Developers",
     "title": "Emmet - The Essential Toolkit For Web Developers",
     "value": "https://codecourse.com/courses/emmet-the-essential-toolkit-for-web-developers",
     "slug": "emmet-the-essential-toolkit-for-web-developers",
     "url": "https://codecourse.com/courses/emmet-the-essential-toolkit-for-web-developers"
-  },
-  {
-    "id": 13,
-    "id_title": "13 Responsive CSS Sticky Footer",
-    "title": "Responsive CSS Sticky Footer",
-    "value": "https://codecourse.com/courses/responsive-css-sticky-footer",
-    "slug": "responsive-css-sticky-footer",
-    "url": "https://codecourse.com/courses/responsive-css-sticky-footer"
   },
   {
     "id": 10,
