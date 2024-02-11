@@ -1,5 +1,77 @@
 [
   {
+    "id": 539,
+    "id_title": "539 Logging Unique Views in Laravel with Redis",
+    "title": "Logging Unique Views in Laravel with Redis",
+    "value": "https://codecourse.com/courses/logging-unique-views-in-laravel-with-redis",
+    "slug": "logging-unique-views-in-laravel-with-redis",
+    "url": "https://codecourse.com/courses/logging-unique-views-in-laravel-with-redis"
+  },
+  {
+    "id": 538,
+    "id_title": "538 Crop and Upload Profile Photos with Livewire",
+    "title": "Crop and Upload Profile Photos with Livewire",
+    "value": "https://codecourse.com/courses/crop-and-upload-profile-photos-with-livewire",
+    "slug": "crop-and-upload-profile-photos-with-livewire",
+    "url": "https://codecourse.com/courses/crop-and-upload-profile-photos-with-livewire"
+  },
+  {
+    "id": 537,
+    "id_title": "537 Build a Booking System With Laravel",
+    "title": "Build a Booking System With Laravel",
+    "value": "https://codecourse.com/courses/build-a-booking-system-with-laravel",
+    "slug": "build-a-booking-system-with-laravel",
+    "url": "https://codecourse.com/courses/build-a-booking-system-with-laravel"
+  },
+  {
+    "id": 536,
+    "id_title": "536 reCAPTCHA with Laravel",
+    "title": "reCAPTCHA with Laravel",
+    "value": "https://codecourse.com/courses/recaptcha-with-laravel",
+    "slug": "recaptcha-with-laravel",
+    "url": "https://codecourse.com/courses/recaptcha-with-laravel"
+  },
+  {
+    "id": 535,
+    "id_title": "535 Build a Referral System with Laravel",
+    "title": "Build a Referral System with Laravel",
+    "value": "https://codecourse.com/courses/build-a-laravel-referral-system",
+    "slug": "build-a-laravel-referral-system",
+    "url": "https://codecourse.com/courses/build-a-laravel-referral-system"
+  },
+  {
+    "id": 534,
+    "id_title": "534 Social Authentication with Laravel",
+    "title": "Social Authentication with Laravel",
+    "value": "https://codecourse.com/courses/social-authentication-with-laravel",
+    "slug": "social-authentication-with-laravel",
+    "url": "https://codecourse.com/courses/social-authentication-with-laravel"
+  },
+  {
+    "id": 533,
+    "id_title": "533 Dropdown Autocomplete Search Anything in Laravel",
+    "title": "Dropdown Autocomplete Search Anything in Laravel",
+    "value": "https://codecourse.com/courses/dropdown-autocomplete-search-anything-in-laravel",
+    "slug": "dropdown-autocomplete-search-anything-in-laravel",
+    "url": "https://codecourse.com/courses/dropdown-autocomplete-search-anything-in-laravel"
+  },
+  {
+    "id": 532,
+    "id_title": "532 Livewire Multi Step Forms",
+    "title": "Livewire Multi Step Forms",
+    "value": "https://codecourse.com/courses/livewire-multi-step-forms",
+    "slug": "livewire-multi-step-forms",
+    "url": "https://codecourse.com/courses/livewire-multi-step-forms"
+  },
+  {
+    "id": 531,
+    "id_title": "531 Multiple Drag And Drop File Uploading and Processing with Inertia",
+    "title": "Multiple Drag And Drop File Uploading and Processing with Inertia",
+    "value": "https://codecourse.com/courses/multiple-drag-and-drop-file-uploading-and-processing-with-inertia",
+    "slug": "multiple-drag-and-drop-file-uploading-and-processing-with-inertia",
+    "url": "https://codecourse.com/courses/multiple-drag-and-drop-file-uploading-and-processing-with-inertia"
+  },
+  {
     "id": 530,
     "id_title": "530 Chunking Large Uploads in Livewire",
     "title": "Chunking Large Uploads in Livewire",
