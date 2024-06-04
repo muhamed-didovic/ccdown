@@ -1,5 +1,85 @@
 [
   {
+    "id": 549,
+    "id_title": "549 Build a Trello Clone With Livewire",
+    "title": "Build a Trello Clone With Livewire",
+    "value": "https://codecourse.com/courses/build-a-trello-clone-with-livewire",
+    "slug": "build-a-trello-clone-with-livewire",
+    "url": "https://codecourse.com/courses/build-a-trello-clone-with-livewire"
+  },
+  {
+    "id": 548,
+    "id_title": "548 Authentication with Laravel Sanctum and Vue",
+    "title": "Authentication with Laravel Sanctum and Vue",
+    "value": "https://codecourse.com/courses/authentication-with-laravel-sanctum-and-vue",
+    "slug": "authentication-with-laravel-sanctum-and-vue",
+    "url": "https://codecourse.com/courses/authentication-with-laravel-sanctum-and-vue"
+  },
+  {
+    "id": 547,
+    "id_title": "547 Build a Livewire Comment System",
+    "title": "Build a Livewire Comment System",
+    "value": "https://codecourse.com/courses/build-a-livewire-comment-system",
+    "slug": "build-a-livewire-comment-system",
+    "url": "https://codecourse.com/courses/build-a-livewire-comment-system"
+  },
+  {
+    "id": 546,
+    "id_title": "546 Create an AI chat bot with Livewire and ChatGPT",
+    "title": "Create an AI chat bot with Livewire and ChatGPT",
+    "value": "https://codecourse.com/courses/create-an-ai-chat-bot-with-livewire-and-chatgpt",
+    "slug": "create-an-ai-chat-bot-with-livewire-and-chatgpt",
+    "url": "https://codecourse.com/courses/create-an-ai-chat-bot-with-livewire-and-chatgpt"
+  },
+  {
+    "id": 545,
+    "id_title": "545 Liking Things in Laravel with Redis",
+    "title": "Liking Things in Laravel with Redis",
+    "value": "https://codecourse.com/courses/liking-things-in-laravel-with-redis",
+    "slug": "liking-things-in-laravel-with-redis",
+    "url": "https://codecourse.com/courses/liking-things-in-laravel-with-redis"
+  },
+  {
+    "id": 544,
+    "id_title": "544 Getting the Table Name From a Model in Laravel",
+    "title": "Getting the Table Name From a Model in Laravel",
+    "value": "https://codecourse.com/courses/getting-the-table-name-from-a-model-in-laravel",
+    "slug": "getting-the-table-name-from-a-model-in-laravel",
+    "url": "https://codecourse.com/courses/getting-the-table-name-from-a-model-in-laravel"
+  },
+  {
+    "id": 543,
+    "id_title": "543 Drag and Drop Sorting With Livewire",
+    "title": "Drag and Drop Sorting With Livewire",
+    "value": "https://codecourse.com/courses/drag-and-drop-sorting-with-livewire",
+    "slug": "drag-and-drop-sorting-with-livewire",
+    "url": "https://codecourse.com/courses/drag-and-drop-sorting-with-livewire"
+  },
+  {
+    "id": 542,
+    "id_title": "542 Build an Appointment Booking System With Livewire",
+    "title": "Build an Appointment Booking System With Livewire",
+    "value": "https://codecourse.com/courses/build-an-appointment-booking-system-with-livewire",
+    "slug": "build-an-appointment-booking-system-with-livewire",
+    "url": "https://codecourse.com/courses/build-an-appointment-booking-system-with-livewire"
+  },
+  {
+    "id": 541,
+    "id_title": "541 Trending Things Over Time With Laravel",
+    "title": "Trending Things Over Time With Laravel",
+    "value": "https://codecourse.com/courses/trending-things-over-time-with-laravel",
+    "slug": "trending-things-over-time-with-laravel",
+    "url": "https://codecourse.com/courses/trending-things-over-time-with-laravel"
+  },
+  {
+    "id": 540,
+    "id_title": "540 Build an Appointment Booking System With Inertia",
+    "title": "Build an Appointment Booking System With Inertia",
+    "value": "https://codecourse.com/courses/build-a-booking-system-with-inertia",
+    "slug": "build-a-booking-system-with-inertia",
+    "url": "https://codecourse.com/courses/build-a-booking-system-with-inertia"
+  },
+  {
     "id": 539,
     "id_title": "539 Logging Unique Views in Laravel with Redis",
     "title": "Logging Unique Views in Laravel with Redis",
@@ -17,8 +97,8 @@
   },
   {
     "id": 537,
-    "id_title": "537 Build a Booking System With Laravel",
-    "title": "Build a Booking System With Laravel",
+    "id_title": "537 Build an Appointment Booking System With Laravel",
+    "title": "Build an Appointment Booking System With Laravel",
     "value": "https://codecourse.com/courses/build-a-booking-system-with-laravel",
     "slug": "build-a-booking-system-with-laravel",
     "url": "https://codecourse.com/courses/build-a-booking-system-with-laravel"
